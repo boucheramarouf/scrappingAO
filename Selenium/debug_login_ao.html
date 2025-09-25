@@ -1,0 +1,318 @@
+<html class="no-js ng-scope" ng-app="orgasourcingBApp" ng-controller="OrgasourcingCtrl as orgasourcing" dir="ltr"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style> <meta charset="utf-8"> <meta name="robots" content="noindex"> <!-- ngIf: nom_site --> <meta name="description" content=""> <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"> <link rel="manifest" href="/site.webmanifest"> <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"> <meta name="msapplication-TileColor" content="#da532c"> <meta name="theme-color" content="#337ab7"> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel="stylesheet" href="styles/vendor.0064c284.css"> <link rel="stylesheet" href="styles/main.4a27a222.css"> <!--link rel="stylesheet" href="bower_components/seiyria-bootstrap-slider/css/bootstrap-slider.css" /--> <link rel="stylesheet" href="libs/pdf.js-viewer/viewer.css">  <style type="text/css">[responsive-image] > img, [data-responsive-image] {overflow: hidden; padding: 0; } [responsive-image] > img, [data-responsive-image] > img {width: 100%;}
+@keyframes element-queries { 0% { visibility: inherit; } }</style></head><body class="iscroll-on modal-open" ng-class="{'navig-on':orgasourcing.action_appli.userIsAuthenticated()}" style="overflow:hidden!important"> <!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser.</p>
+<![endif]--> <div id="toast-container" ng-class="[config.position, config.animation]" toaster-options="{'position-class': 'toast-bottom-right', 'close-button':true}" class="ng-scope toast-bottom-right"><!-- ngRepeat: toaster in toasters --></div> <!-- ngIf: orgasourcing.action_appli.userIsAuthenticated() --> <div id="itemFrom" class="b b-danger hidden"> <pdfjs-viewer print="false" open="" ng-show="srcPdf != ''" on-page-load="onInitPdf()" src="" class="ng-isolate-scope ng-hide" aria-hidden="true"><div class="pdfjs" style="width: 100%; height: 100%;"><pdfjs-wrapper>
+    <div id="outerContainer">
+
+      <div id="sidebarContainer">
+        <div id="toolbarSidebar">
+          <div class="splitToolbarButton toggled">
+            <button id="viewThumbnail" class="toolbarButton group toggled" title="Show Thumbnails" tabindex="2" data-l10n-id="thumbs">
+               <span data-l10n-id="thumbs_label">Thumbnails</span>
+            </button>
+            <button id="viewOutline" class="toolbarButton group" title="Show Document Outline (double-click to expand/collapse all items)" tabindex="3" data-l10n-id="document_outline">
+               <span data-l10n-id="document_outline_label">Document Outline</span>
+            </button>
+            <button id="viewAttachments" class="toolbarButton group" title="Show Attachments" tabindex="4" data-l10n-id="attachments">
+               <span data-l10n-id="attachments_label">Attachments</span>
+            </button>
+          </div>
+        </div>
+        <div id="sidebarContent">
+          <div id="thumbnailView"></div>
+          <div id="outlineView" class="hidden">
+          </div>
+          <div id="attachmentsView" class="hidden">
+          </div>
+        </div>
+      </div>  <!-- sidebarContainer -->
+
+      <div id="mainContainer">
+        <div class="findbar hidden doorHanger hiddenSmallView" id="findbar">
+          <label for="findInput" class="toolbarLabel" data-l10n-id="find_label">Find:</label>
+          <input id="findInput" class="toolbarField" tabindex="91">
+          <div class="splitToolbarButton">
+            <button class="toolbarButton findPrevious" title="" id="findPrevious" tabindex="92" data-l10n-id="find_previous">
+              <span data-l10n-id="find_previous_label">Previous</span>
+            </button>
+            <div class="splitToolbarButtonSeparator"></div>
+            <button class="toolbarButton findNext" title="" id="findNext" tabindex="93" data-l10n-id="find_next">
+              <span data-l10n-id="find_next_label">Next</span>
+            </button>
+          </div>
+          <input type="checkbox" id="findHighlightAll" class="toolbarField" tabindex="94">
+          <label for="findHighlightAll" class="toolbarLabel" data-l10n-id="find_highlight">Highlight all</label>
+          <input type="checkbox" id="findMatchCase" class="toolbarField" tabindex="95">
+          <label for="findMatchCase" class="toolbarLabel" data-l10n-id="find_match_case_label">Match case</label>
+          <span id="findResultsCount" class="toolbarLabel hidden"></span>
+          <span id="findMsg" class="toolbarLabel"></span>
+        </div>  <!-- findbar -->
+
+        <div id="secondaryToolbar" class="secondaryToolbar hidden doorHangerRight">
+          <div id="secondaryToolbarButtonContainer">
+            <button id="secondaryPresentationMode" class="secondaryToolbarButton presentationMode visibleLargeView" title="Switch to Presentation Mode" tabindex="51" data-l10n-id="presentation_mode">
+              <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+            </button>
+
+            <button id="secondaryOpenFile" class="secondaryToolbarButton openFile visibleLargeView" title="Open File" tabindex="52" data-l10n-id="open_file">
+              <span data-l10n-id="open_file_label">Open</span>
+            </button>
+
+            <button id="secondaryPrint" class="secondaryToolbarButton print visibleMediumView" title="Print" tabindex="53" data-l10n-id="print" hidden="true">
+              <span data-l10n-id="print_label">Print</span>
+            </button>
+
+            <button id="secondaryDownload" class="secondaryToolbarButton download visibleMediumView" title="Download" tabindex="54" data-l10n-id="download">
+              <span data-l10n-id="download_label">Download</span>
+            </button>
+
+            <a href="#" id="secondaryViewBookmark" class="secondaryToolbarButton bookmark visibleSmallView" hidden="true" title="Current view (copy or open in new window)" tabindex="55" data-l10n-id="bookmark">
+              <span data-l10n-id="bookmark_label">Current View</span>
+            </a>
+
+            <div class="horizontalToolbarSeparator visibleLargeView"></div>
+
+            <button id="firstPage" class="secondaryToolbarButton firstPage" title="Go to First Page" tabindex="56" data-l10n-id="first_page" disabled="">
+              <span data-l10n-id="first_page_label">Go to First Page</span>
+            </button>
+            <button id="lastPage" class="secondaryToolbarButton lastPage" title="Go to Last Page" tabindex="57" data-l10n-id="last_page" disabled="">
+              <span data-l10n-id="last_page_label">Go to Last Page</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="pageRotateCw" class="secondaryToolbarButton rotateCw" title="Rotate Clockwise" tabindex="58" data-l10n-id="page_rotate_cw" disabled="">
+              <span data-l10n-id="page_rotate_cw_label">Rotate Clockwise</span>
+            </button>
+            <button id="pageRotateCcw" class="secondaryToolbarButton rotateCcw" title="Rotate Counterclockwise" tabindex="59" data-l10n-id="page_rotate_ccw" disabled="">
+              <span data-l10n-id="page_rotate_ccw_label">Rotate Counterclockwise</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="toggleHandTool" class="secondaryToolbarButton handTool" title="Enable hand tool" tabindex="60" data-l10n-id="hand_tool_enable">
+              <span data-l10n-id="hand_tool_enable_label">Enable hand tool</span>
+            </button>
+
+            <div class="horizontalToolbarSeparator"></div>
+
+            <button id="documentProperties" class="secondaryToolbarButton documentProperties" title="Document Properties…" tabindex="61" data-l10n-id="document_properties">
+              <span data-l10n-id="document_properties_label">Document Properties…</span>
+            </button>
+          </div>
+        </div>  <!-- secondaryToolbar -->
+
+        <div class="toolbar">
+          <div id="toolbarContainer">
+            <div id="toolbarViewer">
+              <div id="toolbarViewerLeft">
+                <button id="sidebarToggle" class="toolbarButton" title="Toggle Sidebar" tabindex="11" data-l10n-id="toggle_sidebar">
+                  <span data-l10n-id="toggle_sidebar_label">Toggle Sidebar</span>
+                </button>
+                <div class="toolbarButtonSpacer" hidden="true"></div>
+                <button id="viewFind" class="toolbarButton group hiddenSmallView" title="Find in Document" tabindex="12" data-l10n-id="findbar">
+                   <span data-l10n-id="findbar_label">Find</span>
+                </button>
+                <div class="splitToolbarButton">
+                  <button class="toolbarButton pageUp" title="Previous Page" id="previous" tabindex="13" data-l10n-id="previous" disabled="">
+                    <span data-l10n-id="previous_label">Previous</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button class="toolbarButton pageDown" title="Next Page" id="next" tabindex="14" data-l10n-id="next" disabled="">
+                    <span data-l10n-id="next_label">Next</span>
+                  </button>
+                </div>
+                <input type="number" id="pageNumber" class="toolbarField pageNumber" title="Page" value="1" size="4" min="1" tabindex="15" data-l10n-id="page" max="0">
+                <span id="numPages" class="toolbarLabel">of 0</span>
+              </div>
+              <div id="toolbarViewerRight">
+                <button id="presentationMode" class="toolbarButton presentationMode hiddenLargeView" title="Switch to Presentation Mode" tabindex="31" data-l10n-id="presentation_mode">
+                  <span data-l10n-id="presentation_mode_label">Presentation Mode</span>
+                </button>
+
+                <button id="openFile" class="toolbarButton openFile hiddenLargeView" hidden="true" title="Open File" tabindex="32" data-l10n-id="open_file">
+                  <span data-l10n-id="open_file_label">Open</span>
+                </button>
+
+                <button id="print" class="toolbarButton print hiddenMediumView" title="Print" tabindex="33" data-l10n-id="print" hidden="true">
+                  <span data-l10n-id="print_label">Print</span>
+                </button>
+
+                <button id="download" class="toolbarButton download hiddenMediumView" title="Download" tabindex="34" data-l10n-id="download">
+                  <span data-l10n-id="download_label">Download</span>
+                </button>
+                <a href="#" id="viewBookmark" class="toolbarButton bookmark hiddenSmallView" hidden="true" title="Current view (copy or open in new window)" tabindex="35" data-l10n-id="bookmark">
+                  <span data-l10n-id="bookmark_label">Current View</span>
+                </a>
+
+                <div class="verticalToolbarSeparator hiddenSmallView"></div>
+
+                <button id="secondaryToolbarToggle" class="toolbarButton" title="Tools" tabindex="36" data-l10n-id="tools">
+                  <span data-l10n-id="tools_label">Tools</span>
+                </button>
+              </div>
+              <div id="toolbarViewerMiddle">
+                <div class="splitToolbarButton">
+                  <button id="zoomOut" class="toolbarButton zoomOut" title="Zoom Out" tabindex="21" data-l10n-id="zoom_out">
+                    <span data-l10n-id="zoom_out_label">Zoom Out</span>
+                  </button>
+                  <div class="splitToolbarButtonSeparator"></div>
+                  <button id="zoomIn" class="toolbarButton zoomIn" title="Zoom In" tabindex="22" data-l10n-id="zoom_in">
+                    <span data-l10n-id="zoom_in_label">Zoom In</span>
+                   </button>
+                </div>
+                <span id="scaleSelectContainer" class="dropdownToolbarButton" style="display: inherit;">
+                  <select id="scaleSelect" title="Zoom" tabindex="23" data-l10n-id="zoom">
+                    <option id="pageAutoOption" title="" value="auto" selected="selected" data-l10n-id="page_scale_auto">Automatic Zoom</option>
+                    <option id="pageActualOption" title="" value="page-actual" data-l10n-id="page_scale_actual">Actual Size</option>
+                    <option id="pageFitOption" title="" value="page-fit" data-l10n-id="page_scale_fit">Fit Page</option>
+                    <option id="pageWidthOption" title="" value="page-width" data-l10n-id="page_scale_width">Full Width</option>
+                    <option id="customScaleOption" title="" value="custom" disabled="disabled" hidden="true"></option>
+                    <option title="" value="0.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 50 }">50%</option>
+                    <option title="" value="0.75" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 75 }">75%</option>
+                    <option title="" value="1" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 100 }">100%</option>
+                    <option title="" value="1.25" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 125 }">125%</option>
+                    <option title="" value="1.5" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 150 }">150%</option>
+                    <option title="" value="2" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 200 }">200%</option>
+                    <option title="" value="3" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 300 }">300%</option>
+                    <option title="" value="4" data-l10n-id="page_scale_percent" data-l10n-args="{ &quot;scale&quot;: 400 }">400%</option>
+                  </select>
+                </span>
+              </div>
+            </div>
+            <div id="loadingBar">
+              <div class="progress">
+                <div class="glimmer">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <menu type="context" id="viewerContextMenu">
+          <menuitem id="contextFirstPage" label="First Page" data-l10n-id="first_page"></menuitem>
+          <menuitem id="contextLastPage" label="Last Page" data-l10n-id="last_page"></menuitem>
+          <menuitem id="contextPageRotateCw" label="Rotate Clockwise" data-l10n-id="page_rotate_cw"></menuitem>
+          <menuitem id="contextPageRotateCcw" label="Rotate Counter-Clockwise" data-l10n-id="page_rotate_ccw"></menuitem>
+        </menu>
+
+        <div id="viewerContainer" tabindex="0">
+          <div id="viewer" class="pdfViewer"></div>
+        </div>
+
+        <div id="errorWrapper" hidden="true">
+          <div id="errorMessageLeft">
+            <span id="errorMessage"></span>
+            <button id="errorShowMore" data-l10n-id="error_more_info">
+              More Information
+            </button>
+            <button id="errorShowLess" data-l10n-id="error_less_info" hidden="true">
+              Less Information
+            </button>
+          </div>
+          <div id="errorMessageRight">
+            <button id="errorClose" data-l10n-id="error_close">
+              Close
+            </button>
+          </div>
+          <div class="clearBoth"></div>
+          <textarea id="errorMoreInfo" hidden="true" readonly="readonly"></textarea>
+        </div>
+      </div> <!-- mainContainer -->
+
+      <div id="overlayContainer" class="hidden">
+        <div id="passwordOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <p id="passwordText" data-l10n-id="password_label">Enter the password to open this PDF file:</p>
+            </div>
+            <div class="row">
+              <!-- The type="password" attribute is set via script, to prevent warnings in Firefox for all http:// documents. -->
+              <input id="password" class="toolbarField">
+            </div>
+            <div class="buttonRow">
+              <button id="passwordCancel" class="overlayButton"><span data-l10n-id="password_cancel">Cancel</span></button>
+              <button id="passwordSubmit" class="overlayButton"><span data-l10n-id="password_ok">OK</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="documentPropertiesOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="document_properties_file_name">File name:</span> <p id="fileNameField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_file_size">File size:</span> <p id="fileSizeField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_title">Title:</span> <p id="titleField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_author">Author:</span> <p id="authorField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_subject">Subject:</span> <p id="subjectField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_keywords">Keywords:</span> <p id="keywordsField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creation_date">Creation Date:</span> <p id="creationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_modification_date">Modification Date:</span> <p id="modificationDateField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_creator">Creator:</span> <p id="creatorField">-</p>
+            </div>
+            <div class="separator"></div>
+            <div class="row">
+              <span data-l10n-id="document_properties_producer">PDF Producer:</span> <p id="producerField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_version">PDF Version:</span> <p id="versionField">-</p>
+            </div>
+            <div class="row">
+              <span data-l10n-id="document_properties_page_count">Page Count:</span> <p id="pageCountField">-</p>
+            </div>
+            <div class="buttonRow">
+              <button id="documentPropertiesClose" class="overlayButton"><span data-l10n-id="document_properties_close">Close</span></button>
+            </div>
+          </div>
+        </div>
+        <div id="printServiceOverlay" class="container hidden">
+          <div class="dialog">
+            <div class="row">
+              <span data-l10n-id="print_progress_message">Preparing document for printing…</span>
+            </div>
+            <div class="row">
+              <div class="progress ng-isolate-scope" ng-transclude="" value="0" max="100"></div>
+              <span data-l10n-id="print_progress_percent" data-l10n-args="{ &quot;progress&quot;: 0 }" class="relative-progress">0%</span>
+            </div>
+            <div class="buttonRow">
+              <button id="printCancel" class="overlayButton"><span data-l10n-id="print_progress_close">Cancel</span></button>
+            </div>
+          </div>
+        </div>
+      </div>  <!-- overlayContainer -->
+
+    </div> <!-- outerContainer -->
+    <div id="printContainer"></div>
+  </pdfjs-wrapper></div></pdfjs-viewer> </div> <div class="container-fluid" style="padding-left:0;padding-right: 0; overflow: hidden" resize=""> <!-- ngIf: erreurs>0 --> <!--div>
+    <div class="visible-xs">XS</div>
+    <div class="visible-sm">SM</div>
+    <div class="visible-md">MD</div>
+    <div class="visible-lg">LG</div>
+  </div--> <!-- ngView:  --><div ng-view="" ng-style="{ 'height': 'calc(100% - ' + ( erreurs&gt;0?30:0 ) + 'px)'}" class="ng-scope" style="height: calc(100% + 0px);"><div class="w-full row login-res ng-scope ng-hide" ng-controller="LoginCtrl as login" style="overflow: hidden" ng-show="!kc &amp;&amp; showLogin &amp;&amp; !sso_active" aria-hidden="true"> <div class="col-sm-6 hidden-xs" style="height: 100%"> <div style="width: 100%; height: 100%; background-size: cover; background-repeat: no-repeat; background-position: center center; background-color: transparent; background-image: url(&quot;&quot;);" ng-style="{'background-image':'url('+image_accueil+')'}"> </div> </div> <div class="col-xs-12 col-sm-6 col-md-6" style="display:table;height: 100%"> <div style="display: table-row; height: 100%"> <div style="display: table-cell; vertical-align: middle"> <div class="col-xs-12 col-sm-12 col-md-6"> <h3><img width="100%" class="m-r"></h3> <div class="m-t-xl m-b-xl text-md m-t-xs ng-binding" style="overflow: auto; max-height: 0px;" ng-style="{'max-height': (viewwHeight - 470 &gt; 0 ? viewwHeight - 470 : 0) + 'px' }" ng-bind-html="'login.DESCRIPTION_DO' | translate">Bienvenue sur ALLIANCE PROCUREMENT, la plateforme digitale du Groupe ALLIANCE GLOBAL PROCUREMENT.
+Alliance High Tech et SystemGIE sont réunis au sein du Groupe ALLIANCE GLOBAL PROCUREMENT pour mutualiser leurs forces, leurs offres et leurs ressources afin de vous accompagner, clients et partenaires, vers le monde des achats de demain.
+ous êtes partenaire et souhaitez répondre aux sollicitations de nos clients Grands Comptes ? Contactez-nous sur contact@groupe-agp.com
+Vous êtes un Grand Compte et souhaitez avoir plus d’informations sur notre solution digitale d’externalisation d’achats ? Contactez-nous sur contact@groupe-agp.com</div> <form class="form-signin ng-pristine ng-valid-email ng-invalid ng-invalid-required" role="form" name="loginForm" ng-submit="myForm.submitTheForm()"> <input type="email" class="form-control ng-pristine ng-untouched ng-isolate-scope ng-valid-email ng-invalid ng-invalid-required" placeholder="Adresse email" focus="true" ng-model="myForm.login" required="" aria-required="true" aria-invalid="true"> <input type="password" class="form-control ng-pristine ng-untouched ng-invalid ng-invalid-required" placeholder="Mot de passe" required="" ng-model="myForm.pw" aria-required="true" aria-invalid="true"> <!-- <label class="checkbox">
+                 <a href="#/welcome"> Sign Up</>
+         </label>--> <button class="btn btn-lg btn-primary btn-block btn-login ng-scope" type="submit" ng-disabled="loginForm.$invalid" translate="login.VALIDER" aria-disabled="true" disabled="disabled">Valider</button> <a href="#/mot_de_passe_oublie" class="btn btn-sm btn-default btn-block ng-scope" translate="login.MDP_OUBLIE">Mot de passe oublié</a> <div class="row m-t"> <div class="col-md-8"> <!-- ngIf: 1==2 --> </div> <div class="col-md-4 text-right"> <div class="dropdown" dropdown=""> <button class="btn btn-default dropdown-toggle ng-binding" type="button" data-toggle="dropdown" dropdown-toggle="" aria-haspopup="true" aria-expanded="false"> Français <span class="caret"></span></button> <ul class="dropdown-menu dropdown-menu-right"> <!-- ngRepeat: (langKey, label) in langs --><li ng-repeat="(langKey, label) in langs" class="ng-scope"> <a ng-click="setLang(langKey, $event)" href="" class="ng-binding">Français</a> </li><!-- end ngRepeat: (langKey, label) in langs --><li ng-repeat="(langKey, label) in langs" class="ng-scope"> <a ng-click="setLang(langKey, $event)" href="" class="ng-binding">English</a> </li><!-- end ngRepeat: (langKey, label) in langs --> </ul> </div> </div> </div> </form> </div> </div> </div> <div style="display: table-row"> <div class="p-t p-b text-xs login-foot-logo" style="display: table-cell;vertical-align: bottom"> <div class="m-b-sm m-l-xs"><img height="40"></div> <div class="m-b-sm m-l-xs"> <!-- ngIf: srm==1 && inscription_fournisseurs==1 --> <!-- ngIf: srm==1 && inscription_fournisseurs==1 --> <span class="ng-binding">Version 4.3.0
+</span> <span class="m-l-sm m-r-sm">|</span> <!-- ngIf: politique_confidentialite --> <!-- ngIf: politique_confidentialite --> <!-- ngIf: mentions_legales --> <!-- ngIf: mentions_legales --> <span class="ng-binding">© All right reserved ORGASOFTWARE</span> </div> </div> </div> </div> </div></div> </div> <script src="https://maps.google.com/maps/api/js?key=AIzaSyCuywhXZ8cLxONkzp8bnzudZdpGFBQ2Ey4"></script> <script src="./libs/pdf.js-viewer/pdf.worker.js"></script> <script src="./libs/gibberish-aes-1.0.0.min.js"></script> <script src="./libs/canvas2svg/canvas2svg.js"></script> <script src="./libs/dom-to-image.min.js"></script> <script src="./libs/jspdf.min.js"></script> <script src="./libs/html2canvas.js"></script> <script src="./libs/css-element-queries-1.2.1/src/ResizeSensor.js"></script> <script src="./libs/css-element-queries-1.2.1/src/ElementQueries.js"></script> <script src="scripts/vendor.13502594.js"></script> <script src="scripts/scripts.12f58b46.js"></script> <!--<script src="scripts/controllers/modal_choix_enquete.js"></script>--> <script src="./libs/saveHtmlToPdf.min.js"></script>  <div id="ngProgress-container" class="ng-scope"><div id="ngProgress" style="height: 3px; background-color: rgb(25, 169, 213); color: rgb(25, 169, 213); width: 0%;"></div></div><input id="fileInput" class="fileInput" type="file"><div class="modal-backdrop fade  ng-animate in-add" ng-class="{in: animate}" ng-style="{'z-index': 1040 + (index &amp;&amp; 1 || 0) + index*10}" modal-backdrop="" data-ng-animate="2" style="z-index: 1040; transition-delay: -0.15s;"></div><div tabindex="-1" role="dialog" class="modal fade ng-isolate-scope modal-max-height ng-animate in-add" ng-class="{in: animate}" ng-style="{'z-index': 1050 + index*10, display: 'block'}" ng-click="close($event)" modal-window="" window-class="modal-max-height" size="md" index="0" animate="animate" data-ng-animate="2" style="z-index: 1050; display: block; transition-delay: -0.15s;">
+    <div class="modal-dialog" ng-class="{'modal-sm': size == 'sm', 'modal-lg': size == 'lg'}"><div class="modal-content" modal-transclude=""><div class="ng-scope"> <div class="modal-header"> <h3 class="modal-title ng-scope" translate="modal.rgpd.TITRE">Acceptation des CGU.
+Cookies.</h3> </div> <div class="modal-body m-l m-r" ng-style="{'max-height': (viewwHeight - 200) + 'px' }" style="max-height: 133px;"> <div translate="modal.rgpd.MESSAGE" class="ng-scope">En vous inscrivant et en vous connectant à la plateforme Alliance Procurement, vous acceptez les <a class="text-info" href="mentions_legales/politique_de_confidentialite.pdf" target="_blank">Conditions Générales d'Utilisation</a>. 
+Des cookies sont utilisés pour collecter des informations sur la manière dont vous interagissez avec notre site web et nous permettent de nous souvenir de vous. Nous utilisons ces informations afin d'améliorer et de personnaliser votre expérience de navigation, ainsi que pour l'analyse et les indicateurs concernant nos visiteurs à la fois sur ce site web et sur d'autres supports. 
+Pour en savoir plus sur les cookies que nous utilisons, consultez nos <a class="text-info" href="mentions_legales/mentions_legales.pdf" target="_blank">Mentions Légales</a>.</div> </div> <div class="modal-footer"> <div class="row"> <div class="col-xs-12"> <button class="btn btn-success btn-block ng-scope" ng-click="valider()" ng-disabled="myForm.$invalid" translate="modal.rgpd.AUTORISER" aria-disabled="false">Accepter les CGU et autoriser les cookies</button> </div> </div> </div> </div></div></div>
+</div></body></html>

@@ -1,0 +1,1059 @@
+[
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/7bdd8cc1-64ac-4d44-888e-c53e6c4a1253/details",
+    "job_id": "7bdd8cc1-64ac-4d44-888e-c53e6c4a1253",
+    "title": "Full-stack developer Java / Angular (I09450)",
+    "jobpost_name": "Full-stack developer Java / Angular (I09450)",
+    "company": "SMALS [intra-muros]  •    Published on: 30/09/2025",
+    "published_date": "Published on: 30/09/2025",
+    "deadline": "Deadline for proposals:  07/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "As soon as possible - 31/12/2026",
+      "16 months    •   (full time)",
+      "Avenue Fonsny, 20 - 1060 Bruxelles\n Hybrid"
+    ],
+    "location_address": "Avenue Fonsny, 20 - 1060 Bruxelles",
+    "remote_option": "HYBRID",
+    "rate_block": "Daily rate  544€  -  680€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "SMALS is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "In the context of a major business transformation program, we are looking for a senior java developer to reinforce the existing teams.  As a senior developer, you will join a department of about 70 people (in evolution) to ensure the hand-over, refactoring and/or greenfield development of business applications.  The developer we're looking for will be responsible for the development of Java applications, supporting the analysts and business objectives, while providing expertise in full-stack software development lifecycle, from concept and design to testing.  Responsibilities:           Development / Maintenance of  business applications Development of application components/webservices Contribute in the design of architecture components and building blocks (in close collaboration with technical lead or senior software architects) Participation in technical working groups, Scrum meetings and meetings with the users if needed Assistance in the testing, the technical documentation, the deployment, the evaluation and the reporting (JUnit, JIRA)ExperiencesMinimum 5-7 years of full-time professional Java Development experience is required (Full-stack preferred - backend with good affinity for frontend is ok) Familiarity with multi-system integration and complex environments Competencies :Technical knowledge and practical experience of required technologies to be able to start development and support directly (below) :  Java and Spring Framework JPA (with Hibernate as implementation) Security patterns (Spring security) Soap and RESTful Web Services Spring BatchSOA, microservices, CQRS Test driven development (Junit, Spring, CI, Mockito, Cypress, Selenium) Frontend (HTML/CSS/JavaScript, Angular) & backend abilities Maven, Jenkins, Docker, Openshift, SVN or GIT and Eclipse or IntelliJ, Sonar, JBoss, Tomcat... Experience with relational database and O/R mapping: PostgreSQL, SQL Server, Able to read and understand BPMN, UML & documentation practices Jira/Confluence A knowledge in the following technologies would be a nice to have, but not required: Talend, ZK, Oracle, Kafka Familiar with AGILE/SCRUM methodologies, test-driven development and continuous integration Problem solver, able to quickly understand existing code Solution and customer oriented Ability to integrate easily into an existing team and to supervise juniors Mission & Working hoursWe are based in Brussels (just in front of Midi Station).  This will be an initial contract until 30/06/2024 - The mission is long term and can be extended beyond 20245 days from Monday until Friday (up to 9h per day on site). Homeworking is possible (3 days a week - 7h48).  Languages  French or Dutch: active knowledge (understanding / speaking / writing technical documentation / reading) of one language. English (written / team communication): active knowledge",
+    "job_type": "Regular",
+    "description_acc": "In the context of a major business transformation program, we are looking for a senior java developer to reinforce the existing teams.  As a senior developer, you will join a department of about 70 people (in evolution) to ensure the hand-over, refactoring and/or greenfield development of business applications.  The developer we're looking for will be responsible for the development of Java applications, supporting the analysts and business objectives, while providing expertise in full-stack software development lifecycle, from concept and design to testing.  Responsibilities:           Development / Maintenance of  business applications Development of application components/webservices Contribute in the design of architecture components and building blocks (in close collaboration with technical lead or senior software architects) Participation in technical working groups, Scrum meetings and meetings with the users if needed Assistance in the testing, the technical documentation, the deployment, the evaluation and the reporting (JUnit, JIRA)ExperiencesMinimum 5-7 years of full-time professional Java Development experience is required (Full-stack preferred - backend with good affinity for frontend is ok) Familiarity with multi-system integration and complex environments Competencies :Technical knowledge and practical experience of required technologies to be able to start development and support directly (below) :  Java and Spring Framework JPA (with Hibernate as implementation) Security patterns (Spring security) Soap and RESTful Web Services Spring BatchSOA, microservices, CQRS Test driven development (Junit, Spring, CI, Mockito, Cypress, Selenium) Frontend (HTML/CSS/JavaScript, Angular) & backend abilities Maven, Jenkins, Docker, Openshift, SVN or GIT and Eclipse or IntelliJ, Sonar, JBoss, Tomcat... Experience with relational database and O/R mapping: PostgreSQL, SQL Server, Able to read and understand BPMN, UML & documentation practices Jira/Confluence A knowledge in the following technologies would be a nice to have, but not required: Talend, ZK, Oracle, Kafka Familiar with AGILE/SCRUM methodologies, test-driven development and continuous integration Problem solver, able to quickly understand existing code Solution and customer oriented Ability to integrate easily into an existing team and to supervise juniors Mission & Working hoursWe are based in Brussels (just in front of Midi Station).  This will be an initial contract until 30/06/2024 - The mission is long term and can be extended beyond 20245 days from Monday until Friday (up to 9h per day on site). Homeworking is possible (3 days a week - 7h48).  Languages  French or Dutch: active knowledge (understanding / speaking / writing technical documentation / reading) of one language. English (written / team communication): active knowledge",
+    "roles": [
+      {
+        "title": "Confirmed   Full-Stack Developer",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile / Scrum",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Angular",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "CQRS",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Hibernate",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Java",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Jenkins",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "JIRA/confluence",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "JPA",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Maven",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "REST",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "SOA",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "SOAP",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Spring Batch",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Spring Framework",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Dutch",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "English",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "French",
+        "level": "Active knowledge"
+      }
+    ],
+    "locations": {
+      "Main address": "Avenue Fonsny, 20 - 1060 Bruxelles",
+      "Remote option": "HYBRID"
+    },
+    "title_from_list": "Full-stack developer Java / Angular (I09450)"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/dd75a041-df6d-4685-8eba-4347f89f39b9/details",
+    "job_id": "dd75a041-df6d-4685-8eba-4347f89f39b9",
+    "title": "25-09.017 - SAP EXPERT",
+    "jobpost_name": "25-09.017 - SAP EXPERT",
+    "company": "Office de la Naissance et de l'Enfance (ONE)  •    Published on: 30/09/2025",
+    "published_date": "Published on: 30/09/2025",
+    "deadline": "Deadline for proposals:  10/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "As soon as possible - 30/11/2025",
+      "2 months    •   (full time)",
+      "Chaussée de Charleroi, 95 - 1060 Bruxelles"
+    ],
+    "location_address": "Chaussée de Charleroi, 95 - 1060 Bruxelles",
+    "remote_option": "",
+    "rate_block": "Daily rate    950€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "Office de la Naissance et de l'Enfance (ONE) is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "La mission est estimée à 1 mois sur une période de 2 mois...\n\nÉvaluation migration serveur production vers archivage\n\nL’ONE recherche un consultant SAP senior (minimum 10 ans d’expérience avec SAP, dont au moins 2 migrations de versions réalisées) pour évaluer et proposer les meilleures solutions de migration de notre serveur de production SAP (ancien et d’archive) vers un système d'archivage moderne, permettant le décommissionnement sécurisé de notre infrastructure legacy critique.\n\n \n\nContexte critique - Serveur de production\n\nL'Offcie dispose d'un serveur de production SAP ERP sur  Windows Server 2003 - NT 5.2, Build 3790 - Service Pack 2 avec base de données ORACLE version 9.2.0.5.0, contenant plus de 20 ans de données financières et comptables. Ce système de production doit être maintenu opérationnel jusqu'à la migration complète, les usagers y accèdent hebdomadairement pour consultation des données historiques et extraction de pièces justificatives.\n\nDe plus, il conveint de respcter une obligation légale de conserver les données pendant 10 ans (jusqu'en février 2034) avec un accès permanent pour les audits.\n\n \n\nÉvaluation demandée - Solutions alternatives\n\nNous sollicitons une évaluation comparative approfondie des solutions suivantes pour migrer notre serveur de production vers un système d'archivage en lecture seule :\n\n \n\n1. SAP Information Lifecycle Management (ILM) - Solution d'archivage officielle SAP avec interface web moderne, stockage audit-proof et traçabilité complète des accès.\n\n2. SAP ILM Retention Warehouse - Solution spécifique pour décommissionnement de systèmes legacy avec conservation réglementée et accès audit permanent.\n\n3. Solutions tierces certifiées SAP - Alternatives d'archivage compatibles SAP offrant fonctionnalités similaires avec potentiels avantages coût/performance.\n\n4. Migration hybride - Combinaison de solutions permettant transition progressive du système de production vers archivage complet.\n\n \n\nExigences techniques critiques\n\nLa solution retenue doit impérativement garantir :\n\nMigration complète de tous les documents justificatifs (PDF, factures, bons de commande, fichiers Excel, images scannées) avec maintien des liens référentiels vers les écritures comptables correspondantes\nAccès read-only sécurisé avec interface moderne pour consultation et export des documents\nTraçabilité totale : enregistrement de tous les accès pour conformité audit\nSécurité renforcée : chiffrement, contrôles d'accès, authentification stricte\nConformité réglementaire : respect normes ISO 14641, GDPR, NIS2\nSupport technique garanti par SAP ou partenaire certifié\n\n \n\nLivrables attendus :\n\nUne évaluation technique complète incluant :\n\nAudit technique du système de production actuel avec inventaire exhaustif des données et documents\nAnalyse comparative des solutions disponibles avec avantages/inconvénients de chaque option\nÉtude de faisabilité technique et organisationnelle pour chaque scénario\nEstimation budgétaire détaillée incluant licences, services, formation\nPlanning de migration avec jalons, risques identifiés et stratégies d'atténuation\nRecommandation finale avec justification technique et économique\n\nContraintes\n\nLe serveur de production doit continuer à fonctionner pendant l'évaluation.\n\n=============\n\nConflits d’intérêt\n\n=============\n\nLa notion de conflit d'intérêts vise toute situation dans laquelle lors de la passation ou de l'exécution, toute personne liée à un adjudicateur de quelque manière que ce soit, ainsi que toute personne susceptible d'influencer la passation ou l'issue de celle-ci, a directement ou indirectement un intérêt financier, économique ou un autre intérêt personnel qui pourrait être perçu comme compromettant leur impartialité ou leur indépendance dans le cadre de la passation ou de l'exécution.\n\n \n\nL'existence d’un conflit d'intérêts est en tout cas présumée :\n\n 1° dès qu'il y a parenté ou alliance, en ligne directe jusqu'au troisième degré et, en ligne collatérale, jusqu'au quatrième degré, ou en cas de cohabitation légale, entre la personne physique, et l'un des candidats ou soumissionnaires ou toute autre personne physique qui exerce pour le compte de l'un de ceux-ci un pouvoir de représentation, de décision ou de contrôle ;\n\n 2° la personne physique, est, elle-même ou par personne interposée, propriétaire, copropriétaire ou associé actif de l'une des entreprises candidates ou soumissionnaires ou exerce, en droit ou en fait, lui-même ou, le cas échéant, par personne interposée, un pouvoir de représentation, de décision ou de contrôle.\n\n \n\nEst considéré comme un conflit d'intérêts, toute situation dans laquelle une personne physique qui a travaillé pour un pouvoir adjudicateur comme collaborateur interne, dans un lien hiérarchique ou non, comme fonctionnaire concerné, officier public ou toute autre personne liée à un pouvoir adjudicateur de quelque manière que ce soit, intervient ultérieurement dans le cadre d'un marché public/appel à projets passé par ce pouvoir adjudicateur et qu'un lien existe entre les précédentes activités que la personne susmentionnée a prestées pour le pouvoir adjudicateur et ses activités dans le cadre du marché/ appel à projets. L'application de la disposition est toutefois limitée à une période de deux ans qui suit la démission de ladite personne ou toute autre façon de mettre fin aux activités précédentes.\n\n \n\nCette disposition donne au pouvoir adjudicateur, dûment informé par le prestataire de services, après vérification de la situation, la possibilité de mettre fin sans indemnité au marché/projet dont est chargé ledit prestataire. Lors de ces vérifications, il sera notamment tenu compte des informations et justifications recueillies auprès de l'intéressé. En cas de résiliation, il sera établi un état des prestations exécutées en vue de leur paiement au prestataire de services. En cas d'infraction (par exemple si le prestataire de services ne fait pas connaître la situation de conflit), la constatation par le pouvoir adjudicateur pourra entraîner la nullité du marché/projet. Si aucune justification n'est fournie à la demande du pouvoir adjudicateur, le prestataire de services n'aura droit à aucun paiement pour les prestations exécutées après le moment où il aurait dû avoir connaissance de l'incompatibilité. Le pouvoir adjudicateur peut, pour les besoins du marché/projet, disposer librement des études, rapports, …, établis par le prestataire en exécution du marché/projet. Il peut en outre l'exclure de ses marchés/ appel à projets pour une durée déterminée.\n\n \n\nLes mesures de prévention de l’ONE : Une note de sensibilisation est communiquée automatiquement lors de la création de la fiche du prestataire.\n\n \n\n=====================\n\nInformations confidentielles\n\n=====================\n\nToutes les informations que l’ONE fournis à l’autre partie dans le cadre du présent marché sont considérées comme des Informations confidentielles (dénommées ci-après « informations confidentielles »). Ceci ne vaut pas pour les informations que les parties qualifient de non confidentielles.\n\nL’adjudicataire traitera les informations confidentielles avec la plus stricte confidentialité, ne les utilisera que si l'exécution du marché le requiert et ne les dévoilera nullement à des tiers, excepté avec l'autorisation préalable, écrite et formelle du bénéficiaire. L’adjudicataire veillera à ce que ses travailleurs, ses agents et ses sous-traitants soient liés par le même devoir de confidentialité au moyen d’un engagement écrit de leur part.\n\nL’adjudicataire ne dévoilera les informations confidentielles qu’aux personnes nécessaires à l’exécution du marché. Sauf autorisation écrite et formelle, il veillera également à ce que son personnel, ses représentants et ses sous-traitants ne fassent pas sortir des informations sur des supports ou de quelque autre manière que ce soit des locaux du bénéficiaire.\n\nLes informations confidentielles peuvent être dévoilées si, et dans la mesure où, la loi ou une instance réglementaire l'exige. Dans ce cas, l’adjudicataire en avertira immédiatement l’ONE par écrit afin de lui permettre d’éviter une telle divulgation par toutes les voies de recours possibles.\n\nSi des informations confidentielles sont obtenues par des personnes ou entités non compétentes et que l’adjudicataire en prend connaissance, l’adjudicataire en informera l’ONE immédiatement par téléphone, e-mail, et ensuite par courrier.\n\nLes droits et obligations des parties qui découlent de cet article restent valables après la fin de ce marché/contrat.\n\nSi l’adjudicataire a contrevenu aux obligations concernant les informations confidentielles. L’ONE se réserve le droit d’interrompre à tout moment le marché subséquent, moyennant un rapport motivé.",
+    "job_type": "Regular",
+    "description_acc": "La mission est estimée à 1 mois sur une période de 2 mois...\n\nÉvaluation migration serveur production vers archivage\n\nL’ONE recherche un consultant SAP senior (minimum 10 ans d’expérience avec SAP, dont au moins 2 migrations de versions réalisées) pour évaluer et proposer les meilleures solutions de migration de notre serveur de production SAP (ancien et d’archive) vers un système d'archivage moderne, permettant le décommissionnement sécurisé de notre infrastructure legacy critique.\n\n \n\nContexte critique - Serveur de production\n\nL'Offcie dispose d'un serveur de production SAP ERP sur  Windows Server 2003 - NT 5.2, Build 3790 - Service Pack 2 avec base de données ORACLE version 9.2.0.5.0, contenant plus de 20 ans de données financières et comptables. Ce système de production doit être maintenu opérationnel jusqu'à la migration complète, les usagers y accèdent hebdomadairement pour consultation des données historiques et extraction de pièces justificatives.\n\nDe plus, il conveint de respcter une obligation légale de conserver les données pendant 10 ans (jusqu'en février 2034) avec un accès permanent pour les audits.\n\n \n\nÉvaluation demandée - Solutions alternatives\n\nNous sollicitons une évaluation comparative approfondie des solutions suivantes pour migrer notre serveur de production vers un système d'archivage en lecture seule :\n\n \n\n1. SAP Information Lifecycle Management (ILM) - Solution d'archivage officielle SAP avec interface web moderne, stockage audit-proof et traçabilité complète des accès.\n\n2. SAP ILM Retention Warehouse - Solution spécifique pour décommissionnement de systèmes legacy avec conservation réglementée et accès audit permanent.\n\n3. Solutions tierces certifiées SAP - Alternatives d'archivage compatibles SAP offrant fonctionnalités similaires avec potentiels avantages coût/performance.\n\n4. Migration hybride - Combinaison de solutions permettant transition progressive du système de production vers archivage complet.\n\n \n\nExigences techniques critiques\n\nLa solution retenue doit impérativement garantir :\n\nMigration complète de tous les documents justificatifs (PDF, factures, bons de commande, fichiers Excel, images scannées) avec maintien des liens référentiels vers les écritures comptables correspondantes\nAccès read-only sécurisé avec interface moderne pour consultation et export des documents\nTraçabilité totale : enregistrement de tous les accès pour conformité audit\nSécurité renforcée : chiffrement, contrôles d'accès, authentification stricte\nConformité réglementaire : respect normes ISO 14641, GDPR, NIS2\nSupport technique garanti par SAP ou partenaire certifié\n\n \n\nLivrables attendus :\n\nUne évaluation technique complète incluant :\n\nAudit technique du système de production actuel avec inventaire exhaustif des données et documents\nAnalyse comparative des solutions disponibles avec avantages/inconvénients de chaque option\nÉtude de faisabilité technique et organisationnelle pour chaque scénario\nEstimation budgétaire détaillée incluant licences, services, formation\nPlanning de migration avec jalons, risques identifiés et stratégies d'atténuation\nRecommandation finale avec justification technique et économique\n\nContraintes\n\nLe serveur de production doit continuer à fonctionner pendant l'évaluation.\n\n=============\n\nConflits d’intérêt\n\n=============\n\nLa notion de conflit d'intérêts vise toute situation dans laquelle lors de la passation ou de l'exécution, toute personne liée à un adjudicateur de quelque manière que ce soit, ainsi que toute personne susceptible d'influencer la passation ou l'issue de celle-ci, a directement ou indirectement un intérêt financier, économique ou un autre intérêt personnel qui pourrait être perçu comme compromettant leur impartialité ou leur indépendance dans le cadre de la passation ou de l'exécution.\n\n \n\nL'existence d’un conflit d'intérêts est en tout cas présumée :\n\n 1° dès qu'il y a parenté ou alliance, en ligne directe jusqu'au troisième degré et, en ligne collatérale, jusqu'au quatrième degré, ou en cas de cohabitation légale, entre la personne physique, et l'un des candidats ou soumissionnaires ou toute autre personne physique qui exerce pour le compte de l'un de ceux-ci un pouvoir de représentation, de décision ou de contrôle ;\n\n 2° la personne physique, est, elle-même ou par personne interposée, propriétaire, copropriétaire ou associé actif de l'une des entreprises candidates ou soumissionnaires ou exerce, en droit ou en fait, lui-même ou, le cas échéant, par personne interposée, un pouvoir de représentation, de décision ou de contrôle.\n\n \n\nEst considéré comme un conflit d'intérêts, toute situation dans laquelle une personne physique qui a travaillé pour un pouvoir adjudicateur comme collaborateur interne, dans un lien hiérarchique ou non, comme fonctionnaire concerné, officier public ou toute autre personne liée à un pouvoir adjudicateur de quelque manière que ce soit, intervient ultérieurement dans le cadre d'un marché public/appel à projets passé par ce pouvoir adjudicateur et qu'un lien existe entre les précédentes activités que la personne susmentionnée a prestées pour le pouvoir adjudicateur et ses activités dans le cadre du marché/ appel à projets. L'application de la disposition est toutefois limitée à une période de deux ans qui suit la démission de ladite personne ou toute autre façon de mettre fin aux activités précédentes.\n\n \n\nCette disposition donne au pouvoir adjudicateur, dûment informé par le prestataire de services, après vérification de la situation, la possibilité de mettre fin sans indemnité au marché/projet dont est chargé ledit prestataire. Lors de ces vérifications, il sera notamment tenu compte des informations et justifications recueillies auprès de l'intéressé. En cas de résiliation, il sera établi un état des prestations exécutées en vue de leur paiement au prestataire de services. En cas d'infraction (par exemple si le prestataire de services ne fait pas connaître la situation de conflit), la constatation par le pouvoir adjudicateur pourra entraîner la nullité du marché/projet. Si aucune justification n'est fournie à la demande du pouvoir adjudicateur, le prestataire de services n'aura droit à aucun paiement pour les prestations exécutées après le moment où il aurait dû avoir connaissance de l'incompatibilité. Le pouvoir adjudicateur peut, pour les besoins du marché/projet, disposer librement des études, rapports, …, établis par le prestataire en exécution du marché/projet. Il peut en outre l'exclure de ses marchés/ appel à projets pour une durée déterminée.\n\n \n\nLes mesures de prévention de l’ONE : Une note de sensibilisation est communiquée automatiquement lors de la création de la fiche du prestataire.\n\n \n\n=====================\n\nInformations confidentielles\n\n=====================\n\nToutes les informations que l’ONE fournis à l’autre partie dans le cadre du présent marché sont considérées comme des Informations confidentielles (dénommées ci-après « informations confidentielles »). Ceci ne vaut pas pour les informations que les parties qualifient de non confidentielles.\n\nL’adjudicataire traitera les informations confidentielles avec la plus stricte confidentialité, ne les utilisera que si l'exécution du marché le requiert et ne les dévoilera nullement à des tiers, excepté avec l'autorisation préalable, écrite et formelle du bénéficiaire. L’adjudicataire veillera à ce que ses travailleurs, ses agents et ses sous-traitants soient liés par le même devoir de confidentialité au moyen d’un engagement écrit de leur part.\n\nL’adjudicataire ne dévoilera les informations confidentielles qu’aux personnes nécessaires à l’exécution du marché. Sauf autorisation écrite et formelle, il veillera également à ce que son personnel, ses représentants et ses sous-traitants ne fassent pas sortir des informations sur des supports ou de quelque autre manière que ce soit des locaux du bénéficiaire.\n\nLes informations confidentielles peuvent être dévoilées si, et dans la mesure où, la loi ou une instance réglementaire l'exige. Dans ce cas, l’adjudicataire en avertira immédiatement l’ONE par écrit afin de lui permettre d’éviter une telle divulgation par toutes les voies de recours possibles.\n\nSi des informations confidentielles sont obtenues par des personnes ou entités non compétentes et que l’adjudicataire en prend connaissance, l’adjudicataire en informera l’ONE immédiatement par téléphone, e-mail, et ensuite par courrier.\n\nLes droits et obligations des parties qui découlent de cet article restent valables après la fin de ce marché/contrat.\n\nSi l’adjudicataire a contrevenu aux obligations concernant les informations confidentielles. L’ONE se réserve le droit d’interrompre à tout moment le marché subséquent, moyennant un rapport motivé.",
+    "roles": [
+      {
+        "title": "Expert   SAP BW Expert",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Analytics",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Business Process Management",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Oracle",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Oracle Data Integrator",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Public Sector Experience",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "SAP",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "SAP ABAP",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "level": "Native"
+      }
+    ],
+    "locations": {
+      "Main address": "Chaussée de Charleroi, 95 - 1060 Bruxelles",
+      "Remote option": "No remote"
+    },
+    "title_from_list": "25-09.017 - SAP EXPERT"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/7b75e2f1-4f48-4200-950f-ff37c4414156/details",
+    "job_id": "7b75e2f1-4f48-4200-950f-ff37c4414156",
+    "title": "Senior Functioneel Analyst (K09448)",
+    "jobpost_name": "Senior Functioneel Analyst (K09448)",
+    "company": "ONEM-RVA (extra-muros) (SMALS) [extra-muros]  •    Published on: 30/09/2025",
+    "published_date": "Published on: 30/09/2025",
+    "deadline": "Deadline for proposals:  10/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "15/10/2025  - 14/10/2026",
+      "12 months    •   (full time)",
+      "Boulevard de l'empereur, 7 - 1000 Bruxelles"
+    ],
+    "location_address": "Boulevard de l'empereur, 7 - 1000 Bruxelles",
+    "remote_option": "",
+    "rate_block": "Daily rate  800€  -  900€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "SMALS is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "Pour rejoindre et booster un de ses projets stratégiques, l’ONEM recherche un.e Functional Analyst pour\nune mission de 12 mois.\nTitulaire d’un Master en Sciences Informatiques et trilingue (FR/NL/EN), vous disposez d’une très solide\nexpérience de 20 ans dans l’analyse fonctionnelle de projets informatiques. \nVous pouvez prouver une expérience réussie d’accompagnement d’un projet et d'une équipe, de l’alimentation du backlog jusqu’à la mise en production, en passant, entre autres, par la rédaction de user stories (users story map), la coordination des cérémonies scrum, le suivi du cycle de développement, la maintenance de la documentation, la gestion de la release et le traitement des incidents.\nVotre solide expérience en tant que Functional Analyst vous a amené.e a travailler en agilité (scrum) et à\nfaire collaborer ensemble les différents stakeholders d’un projet. Outre vos hard skills d’analyste, vous\navez l’habitude d’utiliser vos soft skills pour faciliter le succès des projets auxquels vous participez. Vous\npouvez prouver une expérience réussie dans l’animation d’une équipe agile et vous\ndisposez d’une expérience et certification Professional Scrum Master. Une connaissance et expérience dans le développement Java ainsi que dans des projets Cloud est un plus non négligeable.\nVous maitrisez les méthodologies Agile, UML, BPMN, Kanban et vous êtes familier avec les frameworks Java, Spring, Hibernate, Junit, SQL, LOG4J, JSON, Rest, Git.\nSamen met je CV vragen we om het resultaat van onderstaande oefening mee op te sturen. Het niet\nindienen van een antwoord of indien de antwoorden niet voldoen maakt dat de kandidaat niet weerhouden\nzal worden: Dans une société il y a une vingtaine d’équipes avec à leur tête un responsable d’équipe. Suite au COVID il faut réserver sa place quand on revient travailler dans la société. On va donc développer une application qui permet de définir quand un collaborateur vient travailler sur site et quand il télétravaille.  Le collaborateur doit venir au moins 3 jours par semaine sur site. Un des jours doit être commun avec son équipe. Le jour commun est défini à l’avance par le chef d’équipe. Le nombre de place sur site est limité à 70% du nombre des collaborateurs. Le collaborateur doit remplir un calendrier tous les mois pour chaque demi-jour avec l’indication : Présent sur site, Télétravail, Absent. Un collaborateur peut être absent le jour de présence de son équipe. Le système ne doit lui donner la possibilité d’être présent sur site que si le % de présence est inférieur à 70%. 1. Veuillez documenter le processus « Définir un calendrier mensuel de présence » 2. Veuillez définir le modèle de données lié à ce calendrier (diagramme au choix).",
+    "job_type": "Regular",
+    "description_acc": "Pour rejoindre et booster un de ses projets stratégiques, l’ONEM recherche un.e Functional Analyst pour\nune mission de 12 mois.\nTitulaire d’un Master en Sciences Informatiques et trilingue (FR/NL/EN), vous disposez d’une très solide\nexpérience de 20 ans dans l’analyse fonctionnelle de projets informatiques. \nVous pouvez prouver une expérience réussie d’accompagnement d’un projet et d'une équipe, de l’alimentation du backlog jusqu’à la mise en production, en passant, entre autres, par la rédaction de user stories (users story map), la coordination des cérémonies scrum, le suivi du cycle de développement, la maintenance de la documentation, la gestion de la release et le traitement des incidents.\nVotre solide expérience en tant que Functional Analyst vous a amené.e a travailler en agilité (scrum) et à\nfaire collaborer ensemble les différents stakeholders d’un projet. Outre vos hard skills d’analyste, vous\navez l’habitude d’utiliser vos soft skills pour faciliter le succès des projets auxquels vous participez. Vous\npouvez prouver une expérience réussie dans l’animation d’une équipe agile et vous\ndisposez d’une expérience et certification Professional Scrum Master. Une connaissance et expérience dans le développement Java ainsi que dans des projets Cloud est un plus non négligeable.\nVous maitrisez les méthodologies Agile, UML, BPMN, Kanban et vous êtes familier avec les frameworks Java, Spring, Hibernate, Junit, SQL, LOG4J, JSON, Rest, Git.\nSamen met je CV vragen we om het resultaat van onderstaande oefening mee op te sturen. Het niet\nindienen van een antwoord of indien de antwoorden niet voldoen maakt dat de kandidaat niet weerhouden\nzal worden: Dans une société il y a une vingtaine d’équipes avec à leur tête un responsable d’équipe. Suite au COVID il faut réserver sa place quand on revient travailler dans la société. On va donc développer une application qui permet de définir quand un collaborateur vient travailler sur site et quand il télétravaille.  Le collaborateur doit venir au moins 3 jours par semaine sur site. Un des jours doit être commun avec son équipe. Le jour commun est défini à l’avance par le chef d’équipe. Le nombre de place sur site est limité à 70% du nombre des collaborateurs. Le collaborateur doit remplir un calendrier tous les mois pour chaque demi-jour avec l’indication : Présent sur site, Télétravail, Absent. Un collaborateur peut être absent le jour de présence de son équipe. Le système ne doit lui donner la possibilité d’être présent sur site que si le % de présence est inférieur à 70%. 1. Veuillez documenter le processus « Définir un calendrier mensuel de présence » 2. Veuillez définir le modèle de données lié à ce calendrier (diagramme au choix).",
+    "roles": [
+      {
+        "title": "Expert   Functional Analyst",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "BPMN",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Confluence",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Docker",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Functional analysis",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Hibernate",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Java",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Microservices",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Scrum master",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Spring",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Swing",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Team/People management",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "UML",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Use case writing",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Dutch",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "English",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "French",
+        "level": "Active knowledge"
+      }
+    ],
+    "locations": {
+      "Main address": "Boulevard de l'empereur, 7 - 1000 Bruxelles",
+      "Remote option": "No remote"
+    },
+    "title_from_list": "Senior Functioneel Analyst (K09448)"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/b9ae9e51-3386-4142-9225-46e9e81ff2d5/details",
+    "job_id": "b9ae9e51-3386-4142-9225-46e9e81ff2d5",
+    "title": "Lead Technique Microsoft 365",
+    "jobpost_name": "Lead Technique Microsoft 365",
+    "company": "Le TEC  •    Published on: 30/09/2025",
+    "published_date": "Published on: 30/09/2025",
+    "deadline": "Deadline for proposals:  15/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "As soon as possible - 31/12/2026",
+      "16 months    •   (full time)",
+      "Boulevard De Merkem, 60 - 5000 Namur\n Hybrid"
+    ],
+    "location_address": "Boulevard De Merkem, 60 - 5000 Namur",
+    "remote_option": "HYBRID",
+    "rate_block": "Daily rate  550€  -  800€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "Le TEC is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "Description de Poste : Consultant Microsoft 365\n\nMission principale \n\nNous recherchons un consultant expert en Microsoft 365, doté d'une excellente connaissance de l'outil, de sa configuration et de son administration. Le consultant sera chargé de mener un audit complet de la configuration et de l'utilisation de divers services Microsoft 365, et de proposer des solutions stratégiques pour optimiser leur utilisation au sein de notre organisation.\n\n\nResponsabilités\n\n1. Audit et Analyse :\n   - Effectuer un audit complet de la configuration actuelle de Microsoft 365 pour identifier les forces, les faiblesses et les opportunités d'amélioration.\n   - Réaliser une évaluation détaillée de Microsoft Intune pour s'assurer de sa bonne configuration et utilisation.\n   - Évaluer Microsoft Defender pour vérifier sa configuration et son efficacité.\n   - Vérifier et analyser l'utilisation actuelle des licences Microsoft 365 afin d'optimiser leur allocation et leur utilisation.\n   - Auditer l'utilisation de Microsoft Teams, y compris la téléphonie, pour identifier les opportunités d'amélioration et d'optimisation.\n\n2. Planification et Stratégie : \n   - Développer une feuille de route pour l'optimisation de Microsoft 365, en tenant compte des besoins spécifiques de l'organisation.\n   - Concevoir un plan d'accompagnement pour la direction IT, visant à faciliter la transition et l'adoption des meilleures pratiques.\n   - Élaborer un programme de formation et de support pour les utilisateurs finaux, afin de maximiser l'utilisation efficace des outils Microsoft 365.\n   - Développer des stratégies pour l'utilisation optimale de Microsoft Teams, y compris la mise en place de solutions de téléphonie intégrées.\n\n3. Configuration et Administration : \n   - Assurer la configuration optimale de Microsoft Intune pour la gestion des appareils et des applications mobiles.\n   - Superviser la configuration et la gestion des politiques de sécurité avec Microsoft Defender.\n   - Mettre en place des mécanismes de surveillance et de reporting pour assurer le suivi de la performance et de la sécurité des services Microsoft 365.\n   - Configurer et administrer Microsoft Teams, en optimisant son utilisation pour les communications internes, la collaboration et la téléphonie.\n\n4. Support et Formation : \n   - Fournir un support technique avancé à l'équipe IT et aux utilisateurs finaux.\n   - Organisateur des sessions de formation et des ateliers pour améliorer les compétences des utilisateurs sur les outils Microsoft 365.\n   - Former les utilisateurs et les administrateurs sur les fonctionnalités avancées de Microsoft Teams, y compris les réunions, la collaboration et la téléphonie.\n\n5. Amélioration Continue : \n   - Proposer des améliorations continues basées sur les retours d'expérience et les évolutions des besoins de l'organisation.\n   - Se tenir informé des nouvelles fonctionnalités et mises à jour de Microsoft 365 pour les intégrer dans les pratiques de l'entreprise.\n\n6. Sécurité et Conformité : \n   - Assurer que les configurations et les pratiques respectent les normes de sécurité et les exigences de conformité réglementaire.\n   - Collaborer avec l'équipe de sécurité pour mettre en place des politiques de sécurité robustes et adaptées.\n\n\n\nQualifications\n\n- Expérience démontrée en administration et configuration de Microsoft 365.\n- Maîtrise des outils Microsoft Intune, Microsoft Defender, et de la gestion des licences Microsoft 365.\n- Excellentes compétences en communication et en gestion de projet.\n- Capacité à développer des stratégies et des plans d'action concrets pour l'optimisation des outils Microsoft 365.\n- Connaissance approfondie des meilleures pratiques en matière de sécurité et de conformité.\n- Capacité à former et à accompagner les équipes informatiques et les utilisateurs finaux.\n- Compétence confirmée dans la configuration et l'administration de Microsoft Teams, y compris la gestion de la téléphonie et des fonctionnalités de collaboration.\n\n\nCompétences Clés\n\n- Communication : Capacité à communiquer efficacement avec différentes parties prenantes, y compris les équipes techniques et non techniques. \n- Gestion de Projet : Compétences démontrées en gestion de projet pour mener à bien des initiatives complexes et transversales. \n- Analyse et Résolution de Problèmes : Solides compétences analytiques pour identifier et résoudre rapidement les problèmes. \n- Adaptabilité : Capacité à s'adapter rapidement aux changements technologiques et aux besoins organisationnels. \n- Pédagogie : Aptitude à former et à guider les utilisateurs et les administrateurs, en les aidant à développer leurs compétences.\n\n\nCertifications Recommandées\n\n- Microsoft Certified: Modern Desktop Administrator Associate\n- Microsoft Certified: Security, Compliance, and Identity Fundamentals\n- Microsoft Certified: Enterprise Administrator Expert\n- Microsoft Certified: Teams Administrator Associate\n- Microsoft Certified: Identity and Access Administrator Associate- Certifié Microsoft : associé administrateur de bureau moderne \n\n\nCompétences Supplémentaires Souhaitées\n\n- Connaissance des services complémentaires de Microsoft 365 tels que SharePoint, OneDrive et Exchange Online.\n- Expérience dans la gestion de projets de migration vers Microsoft 365.\n- Certification Microsoft 365 Certified : Fundamentals (MS-900) est un atout.\n\n\nCollaboration et Développement\n\n- Collaborer étroitement avec notre administrateur Microsoft 365 actuel, en apportant des perspectives nouvelles et des idées innovantes pour améliorer les configurations existantes.\n- Assurer le transfert de compétences O365.\n- Encourager un environnement de travail collaboratif et constructif, où le partage de connaissances et l'apprentissage continu sont valorisés.\n\n\nRemarques\n\nLe candidat doit posséder les compétences et l'expérience minimales requises (rôles/compétences)\nLe candidat doit posséder une parfaite maîtrise de la langue française tant à l’oral qu’à l’écrit.\nLa mission sera réalisée principalement sur site à Namur à un régime temps plein.\nLe candidat doit être flexible et devra potentiellement se déplacer dans nos différentes business unit réparties en Wallonie pour rencontrer certains métiers.\nLes jours de consultance sont de 8h.\nDeux jours de télétravail fixes sont possibles.\nLe lundi ne peut pas être télétravaillé, la présence est requise sur site.\nSauf exception en accord avec le responsable de l'équipe, les horaires de travails doivent correspondre aux mêmes horaires que les employés internes à savoir :\n- Le début de la journée doit commencer entre 7h30 et 9h00, le temps de midi doit être pris entre 11h45 et 14h00 et la fin de prestation doit se faire entre 16h00 et 19h00\n- De ce fait, les plages de présence de 9h00 à 11h45 et 14h00 à 16h00 doivent être respectées.",
+    "job_type": "Regular",
+    "description_acc": "Description de Poste : Consultant Microsoft 365\n\nMission principale \n\nNous recherchons un consultant expert en Microsoft 365, doté d'une excellente connaissance de l'outil, de sa configuration et de son administration. Le consultant sera chargé de mener un audit complet de la configuration et de l'utilisation de divers services Microsoft 365, et de proposer des solutions stratégiques pour optimiser leur utilisation au sein de notre organisation.\n\n\nResponsabilités\n\n1. Audit et Analyse :\n   - Effectuer un audit complet de la configuration actuelle de Microsoft 365 pour identifier les forces, les faiblesses et les opportunités d'amélioration.\n   - Réaliser une évaluation détaillée de Microsoft Intune pour s'assurer de sa bonne configuration et utilisation.\n   - Évaluer Microsoft Defender pour vérifier sa configuration et son efficacité.\n   - Vérifier et analyser l'utilisation actuelle des licences Microsoft 365 afin d'optimiser leur allocation et leur utilisation.\n   - Auditer l'utilisation de Microsoft Teams, y compris la téléphonie, pour identifier les opportunités d'amélioration et d'optimisation.\n\n2. Planification et Stratégie : \n   - Développer une feuille de route pour l'optimisation de Microsoft 365, en tenant compte des besoins spécifiques de l'organisation.\n   - Concevoir un plan d'accompagnement pour la direction IT, visant à faciliter la transition et l'adoption des meilleures pratiques.\n   - Élaborer un programme de formation et de support pour les utilisateurs finaux, afin de maximiser l'utilisation efficace des outils Microsoft 365.\n   - Développer des stratégies pour l'utilisation optimale de Microsoft Teams, y compris la mise en place de solutions de téléphonie intégrées.\n\n3. Configuration et Administration : \n   - Assurer la configuration optimale de Microsoft Intune pour la gestion des appareils et des applications mobiles.\n   - Superviser la configuration et la gestion des politiques de sécurité avec Microsoft Defender.\n   - Mettre en place des mécanismes de surveillance et de reporting pour assurer le suivi de la performance et de la sécurité des services Microsoft 365.\n   - Configurer et administrer Microsoft Teams, en optimisant son utilisation pour les communications internes, la collaboration et la téléphonie.\n\n4. Support et Formation : \n   - Fournir un support technique avancé à l'équipe IT et aux utilisateurs finaux.\n   - Organisateur des sessions de formation et des ateliers pour améliorer les compétences des utilisateurs sur les outils Microsoft 365.\n   - Former les utilisateurs et les administrateurs sur les fonctionnalités avancées de Microsoft Teams, y compris les réunions, la collaboration et la téléphonie.\n\n5. Amélioration Continue : \n   - Proposer des améliorations continues basées sur les retours d'expérience et les évolutions des besoins de l'organisation.\n   - Se tenir informé des nouvelles fonctionnalités et mises à jour de Microsoft 365 pour les intégrer dans les pratiques de l'entreprise.\n\n6. Sécurité et Conformité : \n   - Assurer que les configurations et les pratiques respectent les normes de sécurité et les exigences de conformité réglementaire.\n   - Collaborer avec l'équipe de sécurité pour mettre en place des politiques de sécurité robustes et adaptées.\n\n\n\nQualifications\n\n- Expérience démontrée en administration et configuration de Microsoft 365.\n- Maîtrise des outils Microsoft Intune, Microsoft Defender, et de la gestion des licences Microsoft 365.\n- Excellentes compétences en communication et en gestion de projet.\n- Capacité à développer des stratégies et des plans d'action concrets pour l'optimisation des outils Microsoft 365.\n- Connaissance approfondie des meilleures pratiques en matière de sécurité et de conformité.\n- Capacité à former et à accompagner les équipes informatiques et les utilisateurs finaux.\n- Compétence confirmée dans la configuration et l'administration de Microsoft Teams, y compris la gestion de la téléphonie et des fonctionnalités de collaboration.\n\n\nCompétences Clés\n\n- Communication : Capacité à communiquer efficacement avec différentes parties prenantes, y compris les équipes techniques et non techniques. \n- Gestion de Projet : Compétences démontrées en gestion de projet pour mener à bien des initiatives complexes et transversales. \n- Analyse et Résolution de Problèmes : Solides compétences analytiques pour identifier et résoudre rapidement les problèmes. \n- Adaptabilité : Capacité à s'adapter rapidement aux changements technologiques et aux besoins organisationnels. \n- Pédagogie : Aptitude à former et à guider les utilisateurs et les administrateurs, en les aidant à développer leurs compétences.\n\n\nCertifications Recommandées\n\n- Microsoft Certified: Modern Desktop Administrator Associate\n- Microsoft Certified: Security, Compliance, and Identity Fundamentals\n- Microsoft Certified: Enterprise Administrator Expert\n- Microsoft Certified: Teams Administrator Associate\n- Microsoft Certified: Identity and Access Administrator Associate- Certifié Microsoft : associé administrateur de bureau moderne \n\n\nCompétences Supplémentaires Souhaitées\n\n- Connaissance des services complémentaires de Microsoft 365 tels que SharePoint, OneDrive et Exchange Online.\n- Expérience dans la gestion de projets de migration vers Microsoft 365.\n- Certification Microsoft 365 Certified : Fundamentals (MS-900) est un atout.\n\n\nCollaboration et Développement\n\n- Collaborer étroitement avec notre administrateur Microsoft 365 actuel, en apportant des perspectives nouvelles et des idées innovantes pour améliorer les configurations existantes.\n- Assurer le transfert de compétences O365.\n- Encourager un environnement de travail collaboratif et constructif, où le partage de connaissances et l'apprentissage continu sont valorisés.\n\n\nRemarques\n\nLe candidat doit posséder les compétences et l'expérience minimales requises (rôles/compétences)\nLe candidat doit posséder une parfaite maîtrise de la langue française tant à l’oral qu’à l’écrit.\nLa mission sera réalisée principalement sur site à Namur à un régime temps plein.\nLe candidat doit être flexible et devra potentiellement se déplacer dans nos différentes business unit réparties en Wallonie pour rencontrer certains métiers.\nLes jours de consultance sont de 8h.\nDeux jours de télétravail fixes sont possibles.\nLe lundi ne peut pas être télétravaillé, la présence est requise sur site.\nSauf exception en accord avec le responsable de l'équipe, les horaires de travails doivent correspondre aux mêmes horaires que les employés internes à savoir :\n- Le début de la journée doit commencer entre 7h30 et 9h00, le temps de midi doit être pris entre 11h45 et 14h00 et la fin de prestation doit se faire entre 16h00 et 19h00\n- De ce fait, les plages de présence de 9h00 à 11h45 et 14h00 à 16h00 doivent être respectées.",
+    "roles": [
+      {
+        "title": "Expert   IT Infrastructure - Cloud Engineer",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "This year"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Azure Active Directory",
+        "level": "Expert",
+        "recent_experience": "This year"
+      },
+      {
+        "name": "Defender",
+        "level": "Expert",
+        "recent_experience": "1 to 3 years ago"
+      },
+      {
+        "name": "Gestion de projet",
+        "level": "Confirmed",
+        "recent_experience": "1 to 3 years ago"
+      },
+      {
+        "name": "Intune",
+        "level": "Expert",
+        "recent_experience": "1 to 3 years ago"
+      },
+      {
+        "name": "Microsoft 365",
+        "level": "Expert",
+        "recent_experience": "This year"
+      },
+      {
+        "name": "Microsoft Entra ID",
+        "level": "Confirmed",
+        "recent_experience": "1 to 3 years ago"
+      },
+      {
+        "name": "Microsoft Teams",
+        "level": "Expert",
+        "recent_experience": "This year"
+      },
+      {
+        "name": "Orientation client",
+        "level": "Confirmed",
+        "recent_experience": "This year"
+      },
+      {
+        "name": "Purview",
+        "level": "Junior",
+        "recent_experience": "This year"
+      },
+      {
+        "name": "Sharepoint",
+        "level": "Confirmed",
+        "recent_experience": "This year"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Nice to have"
+      },
+      {
+        "name": "French",
+        "level": "Native"
+      }
+    ],
+    "locations": {
+      "Main address": "Boulevard De Merkem, 60 - 5000 Namur",
+      "Remote option": "HYBRID"
+    },
+    "title_from_list": "Lead Technique Microsoft 365"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/e18bb2c7-f1ce-4952-86cc-83be17cf4266/details",
+    "job_id": "e18bb2c7-f1ce-4952-86cc-83be17cf4266",
+    "title": "Chief Information Security Officer",
+    "jobpost_name": "Chief Information Security Officer",
+    "company": "CHU Brugmann  •    Published on: 30/09/2025",
+    "published_date": "Published on: 30/09/2025",
+    "deadline": "Deadline for proposals:  07/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "As soon as possible - 30/11/2025",
+      "2 months    •   (part time 4/5)",
+      "Place A.Van Gehuchten, 4 - 1020 Bruxelles"
+    ],
+    "location_address": "Place A.Van Gehuchten, 4 - 1020 Bruxelles",
+    "remote_option": "",
+    "rate_block": "Daily rate  850€  -  1.050€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "CHU Brugmann is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n IRISTeam tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "ProUnity est le point de contact unique (SPOC) pour cette mission. Si vous avez des questions, vous pouvez contacter Musli Muslija, CLient Satisfaction Manager via paradigm@pro-unity.com \n\nDans le cadre du renforcement des exigences en cybersécurité imposées par la directive européenne NIS2, le CHU Brugmann souhaite faire appel, pour une mission temporaire, à un consultant senior jouant le rôle de CISO (Chief Information Security Officer).\n\nL’objectif est de bénéficier d’une expertise confirmée en cybersécurité pendant 6 mois, afin de :\n- Piloter le démarrage du programme de mise en conformité NIS2,\n- Structurer les fondations d’une gouvernance sécurité robuste et adaptée au secteur hospitalier,\n- Et préparer la transition vers un recrutement futur d’un CISO interne permanent.\n\nObjectif principal\n\nMettre en œuvre et coordonner le programme de conformité NIS2 du CHU Brugmann, tout en structurant durablement les fonctions de gouvernance et de pilotage de la sécurité de l’information.\n\nMissions et responsabilités\n\nGouvernance cybersécurité :\n- Assurer la fonction de RSSI opérationnel temporaire\n- Clarifier les rôles/responsabilités cyber\n- Formaliser les politiques nécessaires (ISO 27001, NIS2, RGPD)\n\nMise en conformité NIS2 :\n- Réaliser un état des lieux et une évaluation de maturité\n- Élaborer un plan d’actions priorisé\n- Coordonner les parties prenantes internes et fournisseurs\n\nGestion des risques :\n- Cartographier les risques IT et OT\n- Mettre à jour l’analyse de risques institutionnelle\n- Apporter une expertise sécurité aux projets en cours\n\nPilotage sécurité opérationnelle :\n- Suivre les audits de sécurité\n- Gérer les incidents critiques\n- Recommander ou initier un dispositif de détection (SOC, MSSP)\n\nConformité et sensibilisation :\n- Travailler en étroite collaboration avec le DPO\n- Accompagner les équipes IT et les métiers\n- Produire les rapports attendus par la direction et les autorités\n\nReporting :\n- Construire un tableau de bord NIS2\n- Formaliser les documents de conformité\n- Garantir la traçabilité et les preuves de mise en œuvre\n\nInformations additionnelles:\n\nLa mission peut être reconduite pour une durée maximale (durée initiale comprise) de : 880 jours ouvrables",
+    "job_type": "Regular",
+    "description_acc": "ProUnity est le point de contact unique (SPOC) pour cette mission. Si vous avez des questions, vous pouvez contacter Musli Muslija, CLient Satisfaction Manager via paradigm@pro-unity.com \n\nDans le cadre du renforcement des exigences en cybersécurité imposées par la directive européenne NIS2, le CHU Brugmann souhaite faire appel, pour une mission temporaire, à un consultant senior jouant le rôle de CISO (Chief Information Security Officer).\n\nL’objectif est de bénéficier d’une expertise confirmée en cybersécurité pendant 6 mois, afin de :\n- Piloter le démarrage du programme de mise en conformité NIS2,\n- Structurer les fondations d’une gouvernance sécurité robuste et adaptée au secteur hospitalier,\n- Et préparer la transition vers un recrutement futur d’un CISO interne permanent.\n\nObjectif principal\n\nMettre en œuvre et coordonner le programme de conformité NIS2 du CHU Brugmann, tout en structurant durablement les fonctions de gouvernance et de pilotage de la sécurité de l’information.\n\nMissions et responsabilités\n\nGouvernance cybersécurité :\n- Assurer la fonction de RSSI opérationnel temporaire\n- Clarifier les rôles/responsabilités cyber\n- Formaliser les politiques nécessaires (ISO 27001, NIS2, RGPD)\n\nMise en conformité NIS2 :\n- Réaliser un état des lieux et une évaluation de maturité\n- Élaborer un plan d’actions priorisé\n- Coordonner les parties prenantes internes et fournisseurs\n\nGestion des risques :\n- Cartographier les risques IT et OT\n- Mettre à jour l’analyse de risques institutionnelle\n- Apporter une expertise sécurité aux projets en cours\n\nPilotage sécurité opérationnelle :\n- Suivre les audits de sécurité\n- Gérer les incidents critiques\n- Recommander ou initier un dispositif de détection (SOC, MSSP)\n\nConformité et sensibilisation :\n- Travailler en étroite collaboration avec le DPO\n- Accompagner les équipes IT et les métiers\n- Produire les rapports attendus par la direction et les autorités\n\nReporting :\n- Construire un tableau de bord NIS2\n- Formaliser les documents de conformité\n- Garantir la traçabilité et les preuves de mise en œuvre\n\nInformations additionnelles:\n\nLa mission peut être reconduite pour une durée maximale (durée initiale comprise) de : 880 jours ouvrables",
+    "roles": [
+      {
+        "title": "Senior   Chief Information Security Officer (CISO)",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "1 to 3 years ago"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Architecture et urbanisation sécurité",
+        "level": "Advanced",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Gestion des risques IT et cyber",
+        "level": "Advanced",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Gouvernance de la sécurité",
+        "level": "Advanced",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Maîtrise de NIS2 ou ISO 27001,",
+        "level": "Advanced",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Pilotage opérationnel de la cybersécurité",
+        "level": "Advanced",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Vision stratégique & feuille de route",
+        "level": "Advanced",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Dutch or French",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "locations": {
+      "Main address": "Place A.Van Gehuchten, 4 - 1020 Bruxelles",
+      "Remote option": "No remote"
+    },
+    "title_from_list": "Chief Information Security Officer"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/b3aeacb5-1979-4006-8ef0-cd9d7e25e40c/details",
+    "job_id": "b3aeacb5-1979-4006-8ef0-cd9d7e25e40c",
+    "title": "Etude et amélioration de la mise en oeuvre des solutions ELK",
+    "jobpost_name": "Etude et amélioration de la mise en oeuvre des solutions ELK",
+    "company": "Le TEC  •    Published on: 29/09/2025",
+    "published_date": "Published on: 29/09/2025",
+    "deadline": "Deadline for proposals:  30/09/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "03/11/2025  - 14/11/2025",
+      "2 weeks    •   (full time)",
+      "Boulevard De Merkem, 60 - 5000 Namur\n Hybrid"
+    ],
+    "location_address": "Boulevard De Merkem, 60 - 5000 Namur",
+    "remote_option": "HYBRID",
+    "rate_block": "Daily rate  800€  -  950€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "Le TEC is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "Le TEC souhaite réaliser une prestation d’expertise et de conseil pour identifier les outils et les fonctionnalités disponibles dans la suite ELK qui répondront au mieux à ses problématiques. L’étude permettra de définir comment mettre en place le niveau de supervision et de monitoring qui permettra de caractériser et corriger les problèmes de performance et d'usabilité. \n\n \n\nAu sein de notre équipe technique, vous serez responsable de :\n\nAnalyse des besoins de supervision (APM, RUM, service map, profiling…) ;\nEtude de l’infrastructure ELK déjà en place et de ses limitations ;\nRédaction d’un rapport de préconisation pour étendre la mise en oeuvre\nRevue de l’architecture du SAE, de ses composants et des sources de données de monitoring ;\nAssurer des entretiens avec les responsables techniques et fonctionnels\n\nDéfinir une proposition de solution technique et fonctionnelle permettant de répondre au besoin",
+    "job_type": "Regular",
+    "description_acc": "Le TEC souhaite réaliser une prestation d’expertise et de conseil pour identifier les outils et les fonctionnalités disponibles dans la suite ELK qui répondront au mieux à ses problématiques. L’étude permettra de définir comment mettre en place le niveau de supervision et de monitoring qui permettra de caractériser et corriger les problèmes de performance et d'usabilité. \n\n \n\nAu sein de notre équipe technique, vous serez responsable de :\n\nAnalyse des besoins de supervision (APM, RUM, service map, profiling…) ;\nEtude de l’infrastructure ELK déjà en place et de ses limitations ;\nRédaction d’un rapport de préconisation pour étendre la mise en oeuvre\nRevue de l’architecture du SAE, de ses composants et des sources de données de monitoring ;\nAssurer des entretiens avec les responsables techniques et fonctionnels\n\nDéfinir une proposition de solution technique et fonctionnelle permettant de répondre au besoin",
+    "roles": [
+      {
+        "title": "Expert   Performance Monitoring Engineer",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": ".Net",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Angular",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Artificial intelligence (AI)",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "DevOps",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Elastic Log/kibana",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "ELK tools",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Grafana",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Kibana",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "PHP",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Web Architecture",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Web Workers",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Nice to have"
+      },
+      {
+        "name": "French",
+        "level": "Native"
+      }
+    ],
+    "locations": {
+      "Main address": "Boulevard De Merkem, 60 - 5000 Namur",
+      "Remote option": "HYBRID"
+    },
+    "title_from_list": "Etude et amélioration de la mise en oeuvre des solutions ELK"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/4b4e4025-6aac-49de-bd48-9bf46a998a17/details",
+    "job_id": "4b4e4025-6aac-49de-bd48-9bf46a998a17",
+    "title": "Logic Designer Editique",
+    "jobpost_name": "Logic Designer Editique",
+    "company": "Athora Belgium sa/nv  •    Published on: 29/09/2025",
+    "published_date": "Published on: 29/09/2025",
+    "deadline": "Deadline for proposals:  15/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "As soon as possible - 30/09/2026",
+      "12 months    •   (full time)",
+      "Rue du Champ de Mars, 23 - 1050 Ixelles\n Hybrid"
+    ],
+    "location_address": "Rue du Champ de Mars, 23 - 1050 Ixelles",
+    "remote_option": "HYBRID",
+    "rate_block": "Daily rate    600€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "Position\n\nAs part of the strengthening of the document development department, you will be responsible for composing and programming documents using the tools used within the company\n\n(We use Eloquence and InDesign – knowledge of one of these products is a PLUS).\n\n \n\nYour mission will be to:\n\n- Understand the document analysis file and validate the solution implementation;\n\n- Create and adapt the document creation logic while respecting programming standards;\n\n- Create documents in Eloquence while respecting programming standards and the graphic charter;\n\n- Keep the data dictionary up to date in the desktop publishing tool;\n\n- Request variables from the IT department or the business;\n\n- Create test environments, execute them, and monitor tests with users;\n\n- Assist and monitor the production launch;\n\n- Propose a design based on the graphic charter.\n\n \n\nProfile\n\n- You possess good computer logic and are familiar with one or more programming languages ​​(e.g., JAVA, VB.Net);\n\n- Ideally, you have significant experience in computer graphics and/or training in computer graphics;\n\n- You have a good analytical mind and are particularly rigorous;\n\n- You have some knowledge of XML computer language;\n\n- You are a team player, solution-oriented, practical, and flexible;\n\n- Customer-oriented, you have a sense of responsibility, good interpersonal skills, and excellent negotiation skills;\n\n- You are fluent in French or Dutch and have a good knowledge of the other national language.",
+    "job_type": "Regular",
+    "description_acc": "Position\n\nAs part of the strengthening of the document development department, you will be responsible for composing and programming documents using the tools used within the company\n\n(We use Eloquence and InDesign – knowledge of one of these products is a PLUS).\n\n \n\nYour mission will be to:\n\n- Understand the document analysis file and validate the solution implementation;\n\n- Create and adapt the document creation logic while respecting programming standards;\n\n- Create documents in Eloquence while respecting programming standards and the graphic charter;\n\n- Keep the data dictionary up to date in the desktop publishing tool;\n\n- Request variables from the IT department or the business;\n\n- Create test environments, execute them, and monitor tests with users;\n\n- Assist and monitor the production launch;\n\n- Propose a design based on the graphic charter.\n\n \n\nProfile\n\n- You possess good computer logic and are familiar with one or more programming languages ​​(e.g., JAVA, VB.Net);\n\n- Ideally, you have significant experience in computer graphics and/or training in computer graphics;\n\n- You have a good analytical mind and are particularly rigorous;\n\n- You have some knowledge of XML computer language;\n\n- You are a team player, solution-oriented, practical, and flexible;\n\n- Customer-oriented, you have a sense of responsibility, good interpersonal skills, and excellent negotiation skills;\n\n- You are fluent in French or Dutch and have a good knowledge of the other national language.",
+    "roles": [
+      {
+        "title": "Senior   Graphic Designer",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Business Rule Integration",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Collaboration with Functional and Technical Teams",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Document Composition and Structuring",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Quality Assurance and Testing",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Dutch or French",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "locations": {
+      "Main address": "Rue du Champ de Mars, 23 - 1050 Ixelles",
+      "Remote option": "HYBRID"
+    },
+    "title_from_list": "Logic Designer Editique"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/fe3657ea-6a95-417e-b2f3-87e3eeaabc5e/details",
+    "job_id": "fe3657ea-6a95-417e-b2f3-87e3eeaabc5e",
+    "title": "Chef de projet systèmes embarqués et PhP",
+    "jobpost_name": "Chef de projet systèmes embarqués et PhP",
+    "company": "Le TEC  •    Published on: 29/09/2025",
+    "published_date": "Published on: 29/09/2025",
+    "deadline": "Deadline for proposals:  06/10/2025 - 12:59 (UTC/GMT)",
+    "duration_lines": [
+      "As soon as possible - 31/12/2025",
+      "4 months    •   (full time)",
+      "Boulevard De Merkem, 60 - 5000 Namur\n Hybrid"
+    ],
+    "location_address": "Boulevard De Merkem, 60 - 5000 Namur",
+    "remote_option": "HYBRID",
+    "rate_block": "Daily rate  700€  -  950€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "Le TEC is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "ENVIRONNEMENT\nLe TEC – pour « Transport En Commun » – est l’un des principaux acteurs de la mobilité et du développement économique, social et durable en Belgique. Fort de ses 5.400 collaborateurs et des 120 métiers qu’ils exercent, le TEC (www.letec.be)  est une entreprise engagée dont l’ensemble des membres partage un projet commun : améliorer, au quotidien, la performance, la convivialité et la durabilité de l’offre de transport en commun.\nLe Département Systèmes Embarqués (DSE) porte deux projets majeurs du TEC : la conception et la production du nouvel ordinateur de bord (PFE) qui équipera les 2500 bus et tram du TEC, ainsi que le Système d’Aide à l’Exploitation qui permet aux différents Services du TEC d’accéder aux données remontées par les PFE. Ces deux solutions fonctionnent en osmose. Afin d’améliorer la coordination, le suivi et le développement de ces projets, le TEC recherche un Chef de projet transversal IT senior sachant à la fois composer avec un cadre projet de type Prince 2 et l’agilité des équipes de développement.\nVous intégrer une équipe d’une vingtaine de personnes (développeurs C++ (PFE/Système embarqués) & PHP/Symfony (SAE/Plateforme web) ; électronicien ; change manager ; testeur ; Product Owner ; Team Leaders ; Analyste fonctionnel, Chef de produits, Gestionnaire Marchés publics…).\nMISSION\nDans ce contexte, la liste de vos responsabilités pourra inclure les éléments suivants :\n\nGestion quotidienne du projet :\n\nGestion des temps\n\nDécoupage projet (WBS) & planification\nSuivi\n\n\nPilotage et mesure de l’état d’avancement (création des tableaux de bord, choix des indicateurs, planification/préparation des comités de pilotage avec le sponsor, …).\nPrise de décision\nGestion & Suivi des ressources\nGestion des risques\nGestion des interdépendances projets\nSupervision et coordination du travail de l’ensemble des acteurs-projets\nGestion des demandes de changement\nGestion budgétaire\n...\n\n\nAssurer le lien avec le Coordinateur de projets qui pilote le portefeuille de projets du Département\nContribuer à améliorer le cadre méthodologique de gestion de projet du DSE\nAssurer la transversalité des équipes pour les développements des produits PFE & SAE\n\nProfil \nFormation :\n\nVous êtes titulaire d’un diplôme de niveau Master avec au minimum 5 années d’expériences en Gestion de projet de grande envergure avec un forte consonnance IT\nUne expérience en projet Systèmes Embarqués et de plateforme web est un atout\nLa maitrise de l’anglais est requise\nUne certification Prince 2 (ou équivalent) est un plus\n\nCompétences et qualités requises :\n\nCompétences techniques en gestion de projet\nCompétences de gestionnaire d’équipe :\n\nCommunication\nSens de l'écoute\nTransparence\nPrise d'initiative\nLeadership\nFlexibilité et souplesse\nDélégation effective\nOrganisation, planification, et prise de risques\nAdaptation au changement\n\n\nVous avez un esprit d’équipe et savez travailler en autonomie\nVous avez un esprit d’analyse et de synthèse\nVous faites preuve d’intégrité professionnelle\nVous êtes rigoureux et avez le sens de l’organisation\nVous avez une réelle aisance communicationnelle (orale et écrite)\nVous êtes assertif et proactif\nVous maîtriser la suite Office et au moins un outil de planification (MS-Project est un plus)\n\n \nINFORMATIONS IMPORTANTES :\nPour être conforme aux exigences, la candidature proposée doit satisfaire pleinement aux exigences minimales suivantes :\n\nLe candidat doit posséder les compétences et l'expérience minimales requises (rôles/compétences)\nLe candidat doit posséder une parfaite maîtrise de la langue française tant à l’oral qu’à l’écrit.\n\n\nPoste full-time.  Possibilité de 2 jours de télétravail. Jeudi et vendredi de préférence en présentiel à Namur.\n\n \nIl en résulte qu’en cas de candidature non conforme, le Tec et/ou ProUnity se réservent le droit de disqualifier le candidat.",
+    "job_type": "Regular",
+    "description_acc": "ENVIRONNEMENT\nLe TEC – pour « Transport En Commun » – est l’un des principaux acteurs de la mobilité et du développement économique, social et durable en Belgique. Fort de ses 5.400 collaborateurs et des 120 métiers qu’ils exercent, le TEC (www.letec.be)  est une entreprise engagée dont l’ensemble des membres partage un projet commun : améliorer, au quotidien, la performance, la convivialité et la durabilité de l’offre de transport en commun.\nLe Département Systèmes Embarqués (DSE) porte deux projets majeurs du TEC : la conception et la production du nouvel ordinateur de bord (PFE) qui équipera les 2500 bus et tram du TEC, ainsi que le Système d’Aide à l’Exploitation qui permet aux différents Services du TEC d’accéder aux données remontées par les PFE. Ces deux solutions fonctionnent en osmose. Afin d’améliorer la coordination, le suivi et le développement de ces projets, le TEC recherche un Chef de projet transversal IT senior sachant à la fois composer avec un cadre projet de type Prince 2 et l’agilité des équipes de développement.\nVous intégrer une équipe d’une vingtaine de personnes (développeurs C++ (PFE/Système embarqués) & PHP/Symfony (SAE/Plateforme web) ; électronicien ; change manager ; testeur ; Product Owner ; Team Leaders ; Analyste fonctionnel, Chef de produits, Gestionnaire Marchés publics…).\nMISSION\nDans ce contexte, la liste de vos responsabilités pourra inclure les éléments suivants :\n\nGestion quotidienne du projet :\n\nGestion des temps\n\nDécoupage projet (WBS) & planification\nSuivi\n\n\nPilotage et mesure de l’état d’avancement (création des tableaux de bord, choix des indicateurs, planification/préparation des comités de pilotage avec le sponsor, …).\nPrise de décision\nGestion & Suivi des ressources\nGestion des risques\nGestion des interdépendances projets\nSupervision et coordination du travail de l’ensemble des acteurs-projets\nGestion des demandes de changement\nGestion budgétaire\n...\n\n\nAssurer le lien avec le Coordinateur de projets qui pilote le portefeuille de projets du Département\nContribuer à améliorer le cadre méthodologique de gestion de projet du DSE\nAssurer la transversalité des équipes pour les développements des produits PFE & SAE\n\nProfil \nFormation :\n\nVous êtes titulaire d’un diplôme de niveau Master avec au minimum 5 années d’expériences en Gestion de projet de grande envergure avec un forte consonnance IT\nUne expérience en projet Systèmes Embarqués et de plateforme web est un atout\nLa maitrise de l’anglais est requise\nUne certification Prince 2 (ou équivalent) est un plus\n\nCompétences et qualités requises :\n\nCompétences techniques en gestion de projet\nCompétences de gestionnaire d’équipe :\n\nCommunication\nSens de l'écoute\nTransparence\nPrise d'initiative\nLeadership\nFlexibilité et souplesse\nDélégation effective\nOrganisation, planification, et prise de risques\nAdaptation au changement\n\n\nVous avez un esprit d’équipe et savez travailler en autonomie\nVous avez un esprit d’analyse et de synthèse\nVous faites preuve d’intégrité professionnelle\nVous êtes rigoureux et avez le sens de l’organisation\nVous avez une réelle aisance communicationnelle (orale et écrite)\nVous êtes assertif et proactif\nVous maîtriser la suite Office et au moins un outil de planification (MS-Project est un plus)\n\n \nINFORMATIONS IMPORTANTES :\nPour être conforme aux exigences, la candidature proposée doit satisfaire pleinement aux exigences minimales suivantes :\n\nLe candidat doit posséder les compétences et l'expérience minimales requises (rôles/compétences)\nLe candidat doit posséder une parfaite maîtrise de la langue française tant à l’oral qu’à l’écrit.\n\n\nPoste full-time.  Possibilité de 2 jours de télétravail. Jeudi et vendredi de préférence en présentiel à Namur.\n\n \nIl en résulte qu’en cas de candidature non conforme, le Tec et/ou ProUnity se réservent le droit de disqualifier le candidat.",
+    "roles": [
+      {
+        "title": "Expert   IT Project Manager",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "This year"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ADKAR",
+        "level": "Nice to have",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Agile",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Azure DevOps",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Design Thinking",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "IT Project Experience",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "MS-Project",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Prince 2",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Risk Management",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Work Breakdown Structure (WBS)",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "French",
+        "level": "Native"
+      }
+    ],
+    "locations": {
+      "Main address": "Boulevard De Merkem, 60 - 5000 Namur",
+      "Remote option": "HYBRID"
+    },
+    "title_from_list": "Chef de projet systèmes embarqués et PhP"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/68ab06c7-820d-4632-a0b2-26233b3a3522/details",
+    "job_id": "68ab06c7-820d-4632-a0b2-26233b3a3522",
+    "title": "Analist-Programmeur PHP/Angular Entry/Exit System (EES) en ETIAS (K09446 + K09447)",
+    "jobpost_name": "Analist-Programmeur PHP/Angular Entry/Exit System (EES) en ETIAS (K09446 + K09447)",
+    "company": "Police-Politie (extra-muros) (SMALS) [extra-muros]  •    Published on: 29/09/2025",
+    "published_date": "Published on: 29/09/2025",
+    "deadline": "Deadline for proposals:  03/10/2025 - 23:59 (UTC/GMT)",
+    "duration_lines": [
+      "01/11/2025  - 31/12/2025",
+      "2 months    •   (full time)",
+      "Koningsstraat, 202A - 1000 Brussel"
+    ],
+    "location_address": "Koningsstraat, 202A - 1000 Brussel",
+    "remote_option": "",
+    "rate_block": "Daily rate  680€  -  850€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "SMALS is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "Doel van het project – But du projet\n\nLe projet « Smart Borders » est une initiative visant à optimiser le contrôle des frontières extérieures des États membres de l’espace Schengen. Smart Borders s’intègre dans le cadre du système d’information Schengen, régi par le code frontières Schengen (Règlement (UE) 2016/399) et se divise lui-même en deux sous-projets : EES et ETIAS.\n\nL’ETIAS (European Travel Information and Autorisation System -- Règlement (UE) 2018/1240) : il s’agit d’un futur système informatique automatisé qui a pour objectif de renforcer les contrôles des voyageurs étrangers exemptés de visa court séjour pour entrer sur le territoire européen, afin de détecter les menaces potentielles. C’est une autorisation de voyage et non un visa. \n\nL’Entry/Exit System (EES -- Règlements (UE) 2017/2226 et (UE) 2017/2225) : il s’agit du développement de services et d'applications web pour le contrôle des frontières Schengen dans le cadre du système européen d'entrée-sortie (Entry Exit System - EES). Cela comporte le traitement des données alphanumériques et biométriques des voyageurs, la vérification dans les systèmes centraux européens et l’intégration dans les applications nationales de contrôle frontalier.\n\nHet project “Smart Borders” is een initiatief met als doel de controle aan de buitengrenzen van de lidstaten van het Schengengebied te optimaliseren. Smart Borders maakt deel uit van het Schengeninformatiesysteem, dat wordt afgebakend door de Schengengrenscode (Verordening (EU) 2016/399), en bestaat zelf uit twee deelprojecten: EES en ETIAS.\n\nETIAS (European Travel Information and Authorisation System -- Verordening (EU) 2018/1240): dit is een toekomstig geautomatiseerd computersysteem dat tot doel heeft de controles van buitenlandse reizigers die zijn vrijgesteld van een visum voor kort verblijf om het Europese grondgebied binnen te komen, te verscherpen om potentiële dreigingen op te sporen. Het is een reisvergunning en geen visum. \n\nHet Entry/Exit System (EES -- Verordeningen (EU) 2017/2226 en (EU) 2017/2225): dit betreft de ontwikkeling van diensten en webapplicaties voor de controle van de Schengengrenzen in het kader van het Europees inreis-uitreissysteem (Entry Exit System - EES). Dit omvat de verwerking van alfanumerieke en biometrische gegevens van reizigers, de verificatie in de Europese centrale systemen en de integratie in de nationale grenscontrolesystemen.\n\nMissie - Mission\n\n• U ontwerpt, ontwikkelt en test toepassingen voor mobiele en vaste toestellen op basis van voorlopige functionele en technische analyses;\n\n• U zorgt voor kwaliteitsbewaking en ontwikkeling van PHP en javascript applicaties in een multi-user omgeving, met hoge beschikbaarheid en hoge zichtbaarheid;\n\n• U volgt technologische ontwikkelingen en geeft technisch advies op uw specifieke kennisgebied en stelt mogelijke aanpassingen aan projecten voor;\n\n• U analyseert, al dan niet in samenwerking met de functionele analisten, de behoeften van de gebruikers;\n\n• U voldoet aan de verwachtingen en technische specificaties van gebruikers, rekening houdend met de haalbaarheid en de regels en normen binnen de administratie;\n\n• U maakt en onderhoudt de technische documentatie;\n\n• U helpt het onderhoud van applicaties te verzekeren om deze te verbeteren of aan te passen aan ontwikkelingen in software en hardware;\n\n• U zorgt voor adequate technische ondersteuning;\n\n• U helpt bij de coaching van collega's;\n\n• U werkt op de volledige ontwikkelingscyclus: back-end (services) en front-end (gebruikersinterface);\n\n• U ontwikkelt nieuwe toepassingen en u verbetert deze die al bestaan;\n\n• U werkt aan complexe toepassingen en u zult een rol spelen in projecten met een grote draagwijdte.\n\n• Vous concevez, développez et testez des applications pour appareils mobiles et fixes sur la base d'analyses fonctionnelles et techniques préliminaires ;\n\n• Vous fournissez l'assurance qualité et le développement d'applications PHP et Javascript dans un environnement multi-utilisateur, avec une haute disponibilité et une haute visibilité ;\n\n• Vous suivez les évolutions technologiques et apportez des conseils techniques dans votre domaine de connaissance spécifique et proposez d'éventuelles adaptations aux projets ;\n\n• Vous analysez les besoins des utilisateurs, que ce soit en collaboration ou non avec les analystes fonctionnels ;\n\n• Vous répondez aux attentes et spécifications techniques des utilisateurs, en tenant compte de la faisabilité et des règles et normes au sein de l'administration ;\n\n• Vous créez et gérez la documentation technique ;\n\n• Vous contribuez à assurer la maintenance des applications afin de les améliorer ou de les adapter aux évolutions logicielles et matérielles ;\n\n• Vous fournissez un support technique adéquat ;\n\n• Vous aidez au coaching de collègues ;\n\n• Vous travaillez sur l'ensemble du cycle de développement : back-end (services) et front-end (interface utilisateur) ;\n\n• Vous développez de nouvelles applications et améliorez celles qui existent déjà ;\n\n• Vous travaillez sur des applications complexes et vous jouerez un rôle dans des projets de grande envergure.\n\nDuur van de missie – Durée de la mission\n\n220 dagen met mogelijke verlenging - 220 jours avec possibilité d’extension\n\nOntwikkelingsplatform - Plateforme de développement\n\nToepassingen geschreven in PHP (CodeIgniter framework, Smarty templates, intern ontwikkeld\n\nframework van de Federale Politie) en Javascript (AngularJS, JQuery).\n\nWerkomgeving: Windows 10, Office 365, NetBeans, GIT\n\nServer-omgeving: Red Hat Enterprise Linux, command line DevOps-tools\n\nDatabase: Intersystems Caché of PostgreSQL\n\nApplications écrites en PHP (framework CodeIgniter, templates Smarty, framework développé en interne par la police fédérale) et en Javascript (AngularJS, JQuery).\n\nEnvironnement de travail : Windows 10, Office 365, NetBeans, GIT\n\nEnvironnement serveur : Red Hat Enterprise Linux, outils DevOps en ligne de commande\n\nBase de données : Intersystems Caché ou PostgreSQL\n\nOntwikkelingstaal – Language de développement\n\nPHP, Javascript, AngularJS, JQuery, Smarty, HTML, CSS, SQL\n\nBenodigde vaardigheden – Compétences recherchées\n\n• U behaalde een ICT georiënteerd masterdiploma of u bezit een graduaat of master in de informatica;\n\n• U bezit een ruime kennis van de technologie en ontwikkeltools voor PHP en Javascript;\n\n• U heeft een goede kennis van SQL;\n\n• Een goede kennis van CodeIgniter is een sterke meerwaarde;\n\n• Een goede kennis van AngularJS is een sterke meerwaarde;\n\n• U heeft ervaring met het gebruik van ontwikkelingsomgevingen in GIT en DevOps;\n\n• U bezit een goede kennis van de ontwikkeling en het gebruik van REST web services, toegepast in C#;\n\n• Kennis van Laravel en VueJS is een belangrijk pluspunt;\n\n• Ervaring in een gelijkaardige functie is een sterke meerwaarde;\n\n• U bezit kennis van de methoden en technieken van functionele en technische analyse;\n\n• U bezit kennis van de methoden en technieken van procesbeschrijving;\n\n• U bezit kennis van analyse onder de vorm van Use Cases afhankelijk van project tot project;\n\n• U bent vertrouwd met Agile en Scrum;\n\n• U kan zelfstandig werken;\n\n• U kan uw tijd goed indelen en deadlines respecteren;\n\n• U hebt een sterke teamgeest en analytische capaciteiten;\n\n• U bent bij voorkeur tweetalig (Nederlands, Frans) of, indien niet, beschikt u over voldoende basiskennis van de tweede landstaal om probleemloos te kunnen deelnemen aan vergaderingen met andere specialisten en met vertegenwoordigers van de gebruikers;\n\n• Kennis van technisch Engels is noodzakelijk.\n\n• Vous êtes titulaire d'une maîtrise orientée vers les TIC ou d'un diplôme d'études supérieures ou d'une maîtrise en informatique ;\n\n• Vous avez une connaissance étendue de la technologie et des outils de développement pour PHP et Javascript ;\n\n• Vous avez une bonne connaissance du SQL ;\n\n• Une bonne connaissance de CodeIgniter est une forte valeur ajoutée ;\n\n• Une bonne connaissance d'AngularJS est une forte valeur ajoutée ;\n\n• Vous avez de l'expérience dans l'utilisation d'environnements de développement dans GIT et DevOps ;\n\n• Vous avez une bonne connaissance du développement et de l'utilisation des services web REST, appliqués en C# ;\n\n• La connaissance de Laravel et VueJS est un atout majeur ;\n\n• Une expérience dans une fonction similaire est une forte valeur ajoutée ;\n\n• Vous connaissez les méthodes et techniques d'analyse fonctionnelle et technique ;\n\n• Vous connaissez les méthodes et les techniques de description des processus ;\n\n• Vous avez une connaissance de l'analyse sous forme de cas d'utilisation en fonction des projets ;\n\n• Vous connaissez Agile et Scrum ;\n\n• Vous pouvez travailler de manière indépendante ;\n\n• Vous pouvez bien organiser votre temps et respecter les délais ;\n\n• Vous avez un fort esprit d'équipe et des compétences analytiques ;\n\n• Vous êtes de préférence bilingue (néerlandais, français) ou, dans le cas contraire, vous avez une connaissance de base suffisante de la deuxième langue nationale pour pouvoir participer sans problème à des réunions avec d'autres spécialistes et représentants des utilisateurs ;\n\n• La connaissance de l'anglais technique est nécessaire.\n\nVerwachte uitvoertype – Type output attendu\n\nFunctionele en technische analyse, activiteitdiagrammen, database-schema, broncode met commentaar, unit-testen, scenariotesten, deployments op server niveau.\n\nAnalyse fonctionnelle et technique, diagrammes d'activités, schéma de base de données, code source avec commentaires, tests unitaires, tests de scénario, déploiements serveur.\n\nFrequentie van beschikbaarheid van de outputs – Périodicité de mise à disposition des outputs\n\nOp het einde van elke sprint (gemiddeld 2 weken).\n\nEn fin de sprint (2 semaines en moyenne).\n\nMethode voor het definiëren van de verwachte inhoud/periode (sprint) - Méthode de définition du contenu attendu pour chaque période (sprint)\n\nDe Business Unit Manager of de door hem aangeduide persoon definieert de inhoud en de verwachtingen voor elke sprint aan het begin van de sprint.\n\nLe Business Unit Manager ou la personne désignée en son nom définit le contenu et les attentes de chaque sprint au début du sprint.\n\nPeriodiciteit van de evaluatie - Périodicité de l'évaluation\n\nMaandelijks – Mensuel\n\nStop-and-Go criteria van de missie - Critères d’arrêt and go de la mission\n\nStop : ontoereikend resultaat, niet-accepteerbare vertraging, einde van de opdracht, overschrijding van het budget, niet respecteren van de opdrachten, standaarden en procedures, zware fout.\n\nGo : Periodieke positieve evaluatie, actieve bijsturing voor de ontvangen opmerkingen tijdens de evaluatie.\n\nArrêt : résultat inadéquat, retard inacceptable, fin de mission, dépassement de budget, non-respect des missions, normes et procédures, erreur grave.\n\nGo: Évaluation positive périodique, ajustement actif des commentaires reçus lors de l'évaluation",
+    "job_type": "Regular",
+    "description_acc": "Doel van het project – But du projet\n\nLe projet « Smart Borders » est une initiative visant à optimiser le contrôle des frontières extérieures des États membres de l’espace Schengen. Smart Borders s’intègre dans le cadre du système d’information Schengen, régi par le code frontières Schengen (Règlement (UE) 2016/399) et se divise lui-même en deux sous-projets : EES et ETIAS.\n\nL’ETIAS (European Travel Information and Autorisation System -- Règlement (UE) 2018/1240) : il s’agit d’un futur système informatique automatisé qui a pour objectif de renforcer les contrôles des voyageurs étrangers exemptés de visa court séjour pour entrer sur le territoire européen, afin de détecter les menaces potentielles. C’est une autorisation de voyage et non un visa. \n\nL’Entry/Exit System (EES -- Règlements (UE) 2017/2226 et (UE) 2017/2225) : il s’agit du développement de services et d'applications web pour le contrôle des frontières Schengen dans le cadre du système européen d'entrée-sortie (Entry Exit System - EES). Cela comporte le traitement des données alphanumériques et biométriques des voyageurs, la vérification dans les systèmes centraux européens et l’intégration dans les applications nationales de contrôle frontalier.\n\nHet project “Smart Borders” is een initiatief met als doel de controle aan de buitengrenzen van de lidstaten van het Schengengebied te optimaliseren. Smart Borders maakt deel uit van het Schengeninformatiesysteem, dat wordt afgebakend door de Schengengrenscode (Verordening (EU) 2016/399), en bestaat zelf uit twee deelprojecten: EES en ETIAS.\n\nETIAS (European Travel Information and Authorisation System -- Verordening (EU) 2018/1240): dit is een toekomstig geautomatiseerd computersysteem dat tot doel heeft de controles van buitenlandse reizigers die zijn vrijgesteld van een visum voor kort verblijf om het Europese grondgebied binnen te komen, te verscherpen om potentiële dreigingen op te sporen. Het is een reisvergunning en geen visum. \n\nHet Entry/Exit System (EES -- Verordeningen (EU) 2017/2226 en (EU) 2017/2225): dit betreft de ontwikkeling van diensten en webapplicaties voor de controle van de Schengengrenzen in het kader van het Europees inreis-uitreissysteem (Entry Exit System - EES). Dit omvat de verwerking van alfanumerieke en biometrische gegevens van reizigers, de verificatie in de Europese centrale systemen en de integratie in de nationale grenscontrolesystemen.\n\nMissie - Mission\n\n• U ontwerpt, ontwikkelt en test toepassingen voor mobiele en vaste toestellen op basis van voorlopige functionele en technische analyses;\n\n• U zorgt voor kwaliteitsbewaking en ontwikkeling van PHP en javascript applicaties in een multi-user omgeving, met hoge beschikbaarheid en hoge zichtbaarheid;\n\n• U volgt technologische ontwikkelingen en geeft technisch advies op uw specifieke kennisgebied en stelt mogelijke aanpassingen aan projecten voor;\n\n• U analyseert, al dan niet in samenwerking met de functionele analisten, de behoeften van de gebruikers;\n\n• U voldoet aan de verwachtingen en technische specificaties van gebruikers, rekening houdend met de haalbaarheid en de regels en normen binnen de administratie;\n\n• U maakt en onderhoudt de technische documentatie;\n\n• U helpt het onderhoud van applicaties te verzekeren om deze te verbeteren of aan te passen aan ontwikkelingen in software en hardware;\n\n• U zorgt voor adequate technische ondersteuning;\n\n• U helpt bij de coaching van collega's;\n\n• U werkt op de volledige ontwikkelingscyclus: back-end (services) en front-end (gebruikersinterface);\n\n• U ontwikkelt nieuwe toepassingen en u verbetert deze die al bestaan;\n\n• U werkt aan complexe toepassingen en u zult een rol spelen in projecten met een grote draagwijdte.\n\n• Vous concevez, développez et testez des applications pour appareils mobiles et fixes sur la base d'analyses fonctionnelles et techniques préliminaires ;\n\n• Vous fournissez l'assurance qualité et le développement d'applications PHP et Javascript dans un environnement multi-utilisateur, avec une haute disponibilité et une haute visibilité ;\n\n• Vous suivez les évolutions technologiques et apportez des conseils techniques dans votre domaine de connaissance spécifique et proposez d'éventuelles adaptations aux projets ;\n\n• Vous analysez les besoins des utilisateurs, que ce soit en collaboration ou non avec les analystes fonctionnels ;\n\n• Vous répondez aux attentes et spécifications techniques des utilisateurs, en tenant compte de la faisabilité et des règles et normes au sein de l'administration ;\n\n• Vous créez et gérez la documentation technique ;\n\n• Vous contribuez à assurer la maintenance des applications afin de les améliorer ou de les adapter aux évolutions logicielles et matérielles ;\n\n• Vous fournissez un support technique adéquat ;\n\n• Vous aidez au coaching de collègues ;\n\n• Vous travaillez sur l'ensemble du cycle de développement : back-end (services) et front-end (interface utilisateur) ;\n\n• Vous développez de nouvelles applications et améliorez celles qui existent déjà ;\n\n• Vous travaillez sur des applications complexes et vous jouerez un rôle dans des projets de grande envergure.\n\nDuur van de missie – Durée de la mission\n\n220 dagen met mogelijke verlenging - 220 jours avec possibilité d’extension\n\nOntwikkelingsplatform - Plateforme de développement\n\nToepassingen geschreven in PHP (CodeIgniter framework, Smarty templates, intern ontwikkeld\n\nframework van de Federale Politie) en Javascript (AngularJS, JQuery).\n\nWerkomgeving: Windows 10, Office 365, NetBeans, GIT\n\nServer-omgeving: Red Hat Enterprise Linux, command line DevOps-tools\n\nDatabase: Intersystems Caché of PostgreSQL\n\nApplications écrites en PHP (framework CodeIgniter, templates Smarty, framework développé en interne par la police fédérale) et en Javascript (AngularJS, JQuery).\n\nEnvironnement de travail : Windows 10, Office 365, NetBeans, GIT\n\nEnvironnement serveur : Red Hat Enterprise Linux, outils DevOps en ligne de commande\n\nBase de données : Intersystems Caché ou PostgreSQL\n\nOntwikkelingstaal – Language de développement\n\nPHP, Javascript, AngularJS, JQuery, Smarty, HTML, CSS, SQL\n\nBenodigde vaardigheden – Compétences recherchées\n\n• U behaalde een ICT georiënteerd masterdiploma of u bezit een graduaat of master in de informatica;\n\n• U bezit een ruime kennis van de technologie en ontwikkeltools voor PHP en Javascript;\n\n• U heeft een goede kennis van SQL;\n\n• Een goede kennis van CodeIgniter is een sterke meerwaarde;\n\n• Een goede kennis van AngularJS is een sterke meerwaarde;\n\n• U heeft ervaring met het gebruik van ontwikkelingsomgevingen in GIT en DevOps;\n\n• U bezit een goede kennis van de ontwikkeling en het gebruik van REST web services, toegepast in C#;\n\n• Kennis van Laravel en VueJS is een belangrijk pluspunt;\n\n• Ervaring in een gelijkaardige functie is een sterke meerwaarde;\n\n• U bezit kennis van de methoden en technieken van functionele en technische analyse;\n\n• U bezit kennis van de methoden en technieken van procesbeschrijving;\n\n• U bezit kennis van analyse onder de vorm van Use Cases afhankelijk van project tot project;\n\n• U bent vertrouwd met Agile en Scrum;\n\n• U kan zelfstandig werken;\n\n• U kan uw tijd goed indelen en deadlines respecteren;\n\n• U hebt een sterke teamgeest en analytische capaciteiten;\n\n• U bent bij voorkeur tweetalig (Nederlands, Frans) of, indien niet, beschikt u over voldoende basiskennis van de tweede landstaal om probleemloos te kunnen deelnemen aan vergaderingen met andere specialisten en met vertegenwoordigers van de gebruikers;\n\n• Kennis van technisch Engels is noodzakelijk.\n\n• Vous êtes titulaire d'une maîtrise orientée vers les TIC ou d'un diplôme d'études supérieures ou d'une maîtrise en informatique ;\n\n• Vous avez une connaissance étendue de la technologie et des outils de développement pour PHP et Javascript ;\n\n• Vous avez une bonne connaissance du SQL ;\n\n• Une bonne connaissance de CodeIgniter est une forte valeur ajoutée ;\n\n• Une bonne connaissance d'AngularJS est une forte valeur ajoutée ;\n\n• Vous avez de l'expérience dans l'utilisation d'environnements de développement dans GIT et DevOps ;\n\n• Vous avez une bonne connaissance du développement et de l'utilisation des services web REST, appliqués en C# ;\n\n• La connaissance de Laravel et VueJS est un atout majeur ;\n\n• Une expérience dans une fonction similaire est une forte valeur ajoutée ;\n\n• Vous connaissez les méthodes et techniques d'analyse fonctionnelle et technique ;\n\n• Vous connaissez les méthodes et les techniques de description des processus ;\n\n• Vous avez une connaissance de l'analyse sous forme de cas d'utilisation en fonction des projets ;\n\n• Vous connaissez Agile et Scrum ;\n\n• Vous pouvez travailler de manière indépendante ;\n\n• Vous pouvez bien organiser votre temps et respecter les délais ;\n\n• Vous avez un fort esprit d'équipe et des compétences analytiques ;\n\n• Vous êtes de préférence bilingue (néerlandais, français) ou, dans le cas contraire, vous avez une connaissance de base suffisante de la deuxième langue nationale pour pouvoir participer sans problème à des réunions avec d'autres spécialistes et représentants des utilisateurs ;\n\n• La connaissance de l'anglais technique est nécessaire.\n\nVerwachte uitvoertype – Type output attendu\n\nFunctionele en technische analyse, activiteitdiagrammen, database-schema, broncode met commentaar, unit-testen, scenariotesten, deployments op server niveau.\n\nAnalyse fonctionnelle et technique, diagrammes d'activités, schéma de base de données, code source avec commentaires, tests unitaires, tests de scénario, déploiements serveur.\n\nFrequentie van beschikbaarheid van de outputs – Périodicité de mise à disposition des outputs\n\nOp het einde van elke sprint (gemiddeld 2 weken).\n\nEn fin de sprint (2 semaines en moyenne).\n\nMethode voor het definiëren van de verwachte inhoud/periode (sprint) - Méthode de définition du contenu attendu pour chaque période (sprint)\n\nDe Business Unit Manager of de door hem aangeduide persoon definieert de inhoud en de verwachtingen voor elke sprint aan het begin van de sprint.\n\nLe Business Unit Manager ou la personne désignée en son nom définit le contenu et les attentes de chaque sprint au début du sprint.\n\nPeriodiciteit van de evaluatie - Périodicité de l'évaluation\n\nMaandelijks – Mensuel\n\nStop-and-Go criteria van de missie - Critères d’arrêt and go de la mission\n\nStop : ontoereikend resultaat, niet-accepteerbare vertraging, einde van de opdracht, overschrijding van het budget, niet respecteren van de opdrachten, standaarden en procedures, zware fout.\n\nGo : Periodieke positieve evaluatie, actieve bijsturing voor de ontvangen opmerkingen tijdens de evaluatie.\n\nArrêt : résultat inadéquat, retard inacceptable, fin de mission, dépassement de budget, non-respect des missions, normes et procédures, erreur grave.\n\nGo: Évaluation positive périodique, ajustement actif des commentaires reçus lors de l'évaluation",
+    "roles": [
+      {
+        "title": "Expert   Full-Stack Developer",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Analyse",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Angular",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "CSS",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "DevOps",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "GIT",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "HTML",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Javascript",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Jquery",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Laravel",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "PHP",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "REST",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Scrum",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "SQL",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "VueJS",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Dutch",
+        "level": "Passive knowledge"
+      },
+      {
+        "name": "English",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "French",
+        "level": "Passive knowledge"
+      }
+    ],
+    "locations": {
+      "Main address": "Koningsstraat, 202A - 1000 Brussel",
+      "Remote option": "No remote"
+    },
+    "title_from_list": "Analist-Programmeur PHP/Angular Entry/Exit System (EES) en ETIAS (K09446 + K09447)"
+  },
+  {
+    "detail_url": "https://platform.pro-unity.com/Supplier/job-posts/209450a7-091d-4f2b-90f4-6d37fdf907bf/details",
+    "job_id": "209450a7-091d-4f2b-90f4-6d37fdf907bf",
+    "title": "Analist-Programmeur C# Entry/Exit System (EES) en ETIAS (K09445)",
+    "jobpost_name": "Analist-Programmeur C# Entry/Exit System (EES) en ETIAS (K09445)",
+    "company": "Police-Politie (extra-muros) (SMALS) [extra-muros]•  Published on: 29/09/2025",
+    "published_date": "Published on: 29/09/2025",
+    "deadline": "Deadline for proposals:  03/10/2025 - 23:59(UTC/GMT)",
+    "duration_lines": [
+      "01/11/2025  - 31/12/2025",
+      "2 months•(full time)",
+      "Koningsstraat, 202A - 1000 Brussel"
+    ],
+    "location_address": "Koningsstraat, 202A - 1000 Brussel",
+    "remote_option": "",
+    "rate_block": "Daily rate  720€  -  900€",
+    "payment_items": [
+      "According to contract terms",
+      "Fast payment available"
+    ],
+    "tender_block": "SMALS is subject to public procurement law.  Tender details as awarded to ProUnity are accessible below.\n SMALS tender",
+    "contracting_party": "ProUnity SA",
+    "framework_agreement_download": "Download framework agreements",
+    "msp": "ProUnity SA",
+    "description": "Doel van het project – But du projet\n\nLe projet « Smart Borders » est une initiative visant à optimiser le contrôle des frontières extérieures des États membres de l’espace Schengen. Smart Borders s’intègre dans le cadre du système d’information Schengen, régi par le code frontières Schengen (Règlement (UE) 2016/399) et se divise lui-même en deux sous-projets : EES et ETIAS.\n\nL’ETIAS (European Travel Information and Autorisation System -- Règlement (UE) 2018/1240) : il s’agit d’un futur système informatique automatisé qui a pour objectif de renforcer les contrôles des voyageurs étrangers exemptés de visa court séjour pour entrer sur le territoire européen, afin de détecter les menaces potentielles. C’est une autorisation de voyage et non un visa. \n\nL’Entry/Exit System (EES -- Règlements (UE) 2017/2226 et (UE) 2017/2225) : il s’agit du développement de services et d'applications web pour le contrôle des frontières Schengen dans le cadre du système européen d'entrée-sortie (Entry Exit System - EES). Cela comporte le traitement des données alphanumériques et biométriques des voyageurs, la vérification dans les systèmes centraux européens et l’intégration dans les applications nationales de contrôle frontalier.\n\nHet project “Smart Borders” is een initiatief met als doel de controle aan de buitengrenzen van de lidstaten van het Schengengebied te optimaliseren. Smart Borders maakt deel uit van het Schengeninformatiesysteem, dat wordt afgebakend door de Schengengrenscode (Verordening (EU) 2016/399), en bestaat zelf uit twee deelprojecten: EES en ETIAS.\n\nETIAS (European Travel Information and Authorisation System -- Verordening (EU) 2018/1240): dit is een toekomstig geautomatiseerd computersysteem dat tot doel heeft de controles van buitenlandse reizigers die zijn vrijgesteld van een visum voor kort verblijf om het Europese grondgebied binnen te komen, te verscherpen om potentiële dreigingen op te sporen. Het is een reisvergunning en geen visum. \n\nHet Entry/Exit System (EES -- Verordeningen (EU) 2017/2226 en (EU) 2017/2225): dit betreft de ontwikkeling van diensten en webapplicaties voor de controle van de Schengengrenzen in het kader van het Europees inreis-uitreissysteem (Entry Exit System - EES). Dit omvat de verwerking van alfanumerieke en biometrische gegevens van reizigers, de verificatie in de Europese centrale systemen en de integratie in de nationale grenscontrolesystemen.\n\nMissie - Mission\n\n• U ontwerpt, ontwikkelt en test toepassingen voor mobiele en vaste toestellen op basis van voorlopige functionele en technische analyses;\n\n• U zorgt voor kwaliteitsbewaking en ontwikkeling van C#-applicaties in een multi-user omgeving, met hoge beschikbaarheid en hoge zichtbaarheid;\n\n• U volgt technologische ontwikkelingen en geeft technisch advies op uw specifieke kennisgebied en stelt mogelijke aanpassingen aan projecten voor;\n\n• U analyseert in samenwerking met de functionele analisten, de behoeften van de gebruikers;\n\n• U voldoet aan de verwachtingen en technische specificaties van gebruikers, rekening houdend met de haalbaarheid en de regels en normen binnen de administratie;\n\n• U maakt en onderhoudt de technische documentatie;\n\n• U helpt het onderhoud van applicaties te verzekeren om deze te verbeteren of aan te passen aan ontwikkelingen in software en hardware;\n\n• U zorgt voor adequate technische ondersteuning;\n\n• U helpt bij de coaching van collega's;\n\n• U werkt op de volledige ontwikkelingscyclus: back-end (services) en front-end (gebruikersinterface);\n\n• U ontwikkelt nieuwe toepassingen en u verbetert deze die al bestaan;\n\n• U werkt aan complexe toepassingen en u zult een rol spelen in projecten met een grote draagwijdte.\n\n• Vous concevez, développez et testez des applications pour appareils mobiles et fixes sur la base d'analyses fonctionnelles et techniques préliminaires ;\n\n• Vous fournissez l'assurance qualité et le développement d'applications C # dans un environnement multi-utilisateur, avec une haute disponibilité et une haute visibilité ;\n\n• Vous suivez les évolutions technologiques et apportez des conseils techniques dans votre domaine de connaissance spécifique et proposez d'éventuelles adaptations aux projets ;\n\n• Vous analysez les besoins des utilisateurs en collaboration avec les analystes fonctionnels ;\n\n• Vous répondez aux attentes et spécifications techniques des utilisateurs, en tenant compte de la faisabilité et des règles et normes au sein de l'administration ;\n\n• Vous créez et gérez la documentation technique ;\n\n• Vous contribuez à assurer la maintenance des applications afin de les améliorer ou de les adapter aux évolutions logicielles et matérielles ;\n\n• Vous fournissez un support technique adéquat ;\n\n• Vous aidez au coaching de collègues ;\n\n• Vous travaillez sur l'ensemble du cycle de développement: back-end (services) et front-end (interface utilisateur) ;\n\n• Vous développez de nouvelles applications et améliorez celles qui existent déjà ;\n\n• Vous travaillez sur des applications complexes et vous jouerez un rôle dans des projets de grande envergure.\n\nDuur van de missie – Durée de la mission\n\n220 dagen per jaar -  220 jours annuels\n\nOntwikkelingsplatform - Plateforme de développement\n\nToepassingen geschreven in het .NET framework, voor Windows (en optioneel voor mobile: Android & iOS, via Xamarin).\n\nWerkomgeving: Windows 10, Office 365, Visual Studio 2019.\n\nApplications écrites dans le framework .NET, pour Windows (et optionnelle pour mobile: Android et iOS, via Xamarin).\n\nEnvironnement de travail : Windows 10, Office 365, Visual Studio 2019.\n\nOntwikkelingstaal – Language de développement\n\nC#, .NET Framework (Pro: kennis van/connaissance de Xamarin)\n\nBenodigde vaardigheden – Compétences recherchées\n\n• U behaalde een ICT georiënteerd masterdiploma of u bezit een graduaat of master in de informatica;\n\n• U bezit een ruime kennis van de technologie en ontwikkeltools voor Microsoft .NET (C#);\n\n• U heeft een goede kennis van SQL;\n\n• U heeft ervaring met het gebruik van ontwikkelingsomgevingen in GIT en DevOps;\n\n• U bezit een goede kennis van de ontwikkeling en het gebruik van REST web services, toegepast in C#;\n\n• Ervaring in een gelijkaardige functie is een sterke meerwaarde;\n\n• U bezit kennis van de methoden en technieken van functionele en technische analyse;\n\n• U bezit kennis van de methoden en technieken van procesbeschrijving;\n\n• U bezit kennis van analyse onder de vorm van Use Cases afhankelijk van project tot project;\n\n• U bent vertrouwd met Agile en Scrum;\n\n• Optioneel: U beschikt over een aantoonbare ervaring in het ontwikkelen van mobiele toepassingen met Xamarin, minstens voor het Android-besturingssysteem;\n\n• U kan zelfstandig werken;\n\n• U kan uw tijd goed indelen en deadlines respecteren;\n\n• U hebt een sterke teamgeest en analytische capaciteiten;\n\n• U bent bij voorkeur tweetalig (Nederlands, Frans) of, indien niet, beschikt u over voldoende basiskennis van de tweede landstaal om probleemloos te kunnen deelnemen aan vergaderingen met andere specialisten en met vertegenwoordigers van de gebruikers;\n\n• Kennis van technisch Engels is noodzakelijk.\n\n• Vous êtes titulaire d'une maîtrise orientée vers les TIC ou d'un diplôme d'études supérieures ou d'une maîtrise en informatique ;\n\n• Vous avez une connaissance étendue de la technologie et des outils de développement pour Microsoft .NET (C#) ;\n\n• Vous avez une bonne connaissance du SQL ;\n\n• Vous avez de l'expérience dans l'utilisation d'environnements de développement dans GIT et DevOps ;\n\n• Vous avez une bonne connaissance du développement et de l'utilisation des services web REST, appliqués en C# ;\n\n• Une expérience dans une fonction similaire est une forte valeur ajoutée ;\n\n• Vous connaissez les méthodes et techniques d'analyse fonctionnelle et technique ;\n\n• Vous connaissez les méthodes et les techniques de description des processus ;\n\n• Vous avez une connaissance de l'analyse sous forme de cas d'utilisation en fonction des projets ;\n\n• Vous connaissez Agile et Scrum ;\n\n• Optionnelle : Vous avez une expérience avérée dans le développement d'applications mobiles avec Xamarin, au moins pour le système d'exploitation Android ;\n\n• Vous pouvez travailler de manière indépendante ;\n\n• Vous pouvez bien organiser votre temps et respecter les délais ;\n\n• Vous avez un fort esprit d'équipe et des compétences analytiques ;\n\n• Vous êtes de préférence bilingue (néerlandais, français) ou, dans le cas contraire, vous avez une connaissance de base suffisante de la deuxième langue nationale pour pouvoir participer sans problème à des réunions avec d'autres spécialistes et représentants des utilisateurs ;\n\n• La connaissance de l'anglais technique est nécessaire.\n\nVerwachte uitvoertype – Type output attendu\n\nTechnische analyse, activiteitdiagrammen, database-schema, broncode met commentaar, unit-testen, scenariotesten, setup-bestanden (MSI, APK, …)\n\nAnalyse technique, diagrammes d'activités, schéma de base de données, code source avec commentaires, tests unitaires, tests de scénario, fichiers de configuration (MSI, APK, ...)\n\nFrequentie van beschikbaarheid van de outputs – Périodicité de mise à disposition des outputs\n\nOp het einde van elke sprint (2 of 4 weken). - En fin de sprint (2 ou 4 semaines).\n\nMethode voor het definiëren van de verwachte inhoud/periode (sprint)-\n\nMéthode de définition du contenu attendu pour chaque période (sprint)\n\nDe Business Unit Manager of de door hem aangeduide persoon definieert de inhoud en de verwachtingenvoor elke sprint aan het begin van de sprint.\n\nLe Business Unit Manager ou la personne désignée en son nom définit le contenu et les attentes de chaque sprint au début du sprint.\n\nPeriodiciteit van de evaluatie - Périodicité de l'évaluation\n\nMaandelijks – Mensuel\n\nStop-and-Go criteria van de missie - Critères d’arrêt and go de la mission\n\nStop : ontoereikend resultaat, niet-accepteerbare vertraging, einde van de opdracht, overschrijding van het budget, niet respecteren van de opdrachten, standaarden en procedures, zware fout.\n\nGo : Periodieke positieve evaluatie, actieve bijsturing voor de ontvangen opmerkingen tijdens de evaluatie.\n\nArrêt : résultat inadéquat, retard inacceptable, fin de mission, dépassement de budget, non-respect des missions, normes et procédures, faute grave.\n\nGo : Évaluation positive périodique, ajustement actif des commentaires reçus lors de l'évaluation",
+    "job_type": "Regular",
+    "description_acc": "Doel van het project – But du projet\n\nLe projet « Smart Borders » est une initiative visant à optimiser le contrôle des frontières extérieures des États membres de l’espace Schengen. Smart Borders s’intègre dans le cadre du système d’information Schengen, régi par le code frontières Schengen (Règlement (UE) 2016/399) et se divise lui-même en deux sous-projets : EES et ETIAS.\n\nL’ETIAS (European Travel Information and Autorisation System -- Règlement (UE) 2018/1240) : il s’agit d’un futur système informatique automatisé qui a pour objectif de renforcer les contrôles des voyageurs étrangers exemptés de visa court séjour pour entrer sur le territoire européen, afin de détecter les menaces potentielles. C’est une autorisation de voyage et non un visa. \n\nL’Entry/Exit System (EES -- Règlements (UE) 2017/2226 et (UE) 2017/2225) : il s’agit du développement de services et d'applications web pour le contrôle des frontières Schengen dans le cadre du système européen d'entrée-sortie (Entry Exit System - EES). Cela comporte le traitement des données alphanumériques et biométriques des voyageurs, la vérification dans les systèmes centraux européens et l’intégration dans les applications nationales de contrôle frontalier.\n\nHet project “Smart Borders” is een initiatief met als doel de controle aan de buitengrenzen van de lidstaten van het Schengengebied te optimaliseren. Smart Borders maakt deel uit van het Schengeninformatiesysteem, dat wordt afgebakend door de Schengengrenscode (Verordening (EU) 2016/399), en bestaat zelf uit twee deelprojecten: EES en ETIAS.\n\nETIAS (European Travel Information and Authorisation System -- Verordening (EU) 2018/1240): dit is een toekomstig geautomatiseerd computersysteem dat tot doel heeft de controles van buitenlandse reizigers die zijn vrijgesteld van een visum voor kort verblijf om het Europese grondgebied binnen te komen, te verscherpen om potentiële dreigingen op te sporen. Het is een reisvergunning en geen visum. \n\nHet Entry/Exit System (EES -- Verordeningen (EU) 2017/2226 en (EU) 2017/2225): dit betreft de ontwikkeling van diensten en webapplicaties voor de controle van de Schengengrenzen in het kader van het Europees inreis-uitreissysteem (Entry Exit System - EES). Dit omvat de verwerking van alfanumerieke en biometrische gegevens van reizigers, de verificatie in de Europese centrale systemen en de integratie in de nationale grenscontrolesystemen.\n\nMissie - Mission\n\n• U ontwerpt, ontwikkelt en test toepassingen voor mobiele en vaste toestellen op basis van voorlopige functionele en technische analyses;\n\n• U zorgt voor kwaliteitsbewaking en ontwikkeling van C#-applicaties in een multi-user omgeving, met hoge beschikbaarheid en hoge zichtbaarheid;\n\n• U volgt technologische ontwikkelingen en geeft technisch advies op uw specifieke kennisgebied en stelt mogelijke aanpassingen aan projecten voor;\n\n• U analyseert in samenwerking met de functionele analisten, de behoeften van de gebruikers;\n\n• U voldoet aan de verwachtingen en technische specificaties van gebruikers, rekening houdend met de haalbaarheid en de regels en normen binnen de administratie;\n\n• U maakt en onderhoudt de technische documentatie;\n\n• U helpt het onderhoud van applicaties te verzekeren om deze te verbeteren of aan te passen aan ontwikkelingen in software en hardware;\n\n• U zorgt voor adequate technische ondersteuning;\n\n• U helpt bij de coaching van collega's;\n\n• U werkt op de volledige ontwikkelingscyclus: back-end (services) en front-end (gebruikersinterface);\n\n• U ontwikkelt nieuwe toepassingen en u verbetert deze die al bestaan;\n\n• U werkt aan complexe toepassingen en u zult een rol spelen in projecten met een grote draagwijdte.\n\n• Vous concevez, développez et testez des applications pour appareils mobiles et fixes sur la base d'analyses fonctionnelles et techniques préliminaires ;\n\n• Vous fournissez l'assurance qualité et le développement d'applications C # dans un environnement multi-utilisateur, avec une haute disponibilité et une haute visibilité ;\n\n• Vous suivez les évolutions technologiques et apportez des conseils techniques dans votre domaine de connaissance spécifique et proposez d'éventuelles adaptations aux projets ;\n\n• Vous analysez les besoins des utilisateurs en collaboration avec les analystes fonctionnels ;\n\n• Vous répondez aux attentes et spécifications techniques des utilisateurs, en tenant compte de la faisabilité et des règles et normes au sein de l'administration ;\n\n• Vous créez et gérez la documentation technique ;\n\n• Vous contribuez à assurer la maintenance des applications afin de les améliorer ou de les adapter aux évolutions logicielles et matérielles ;\n\n• Vous fournissez un support technique adéquat ;\n\n• Vous aidez au coaching de collègues ;\n\n• Vous travaillez sur l'ensemble du cycle de développement: back-end (services) et front-end (interface utilisateur) ;\n\n• Vous développez de nouvelles applications et améliorez celles qui existent déjà ;\n\n• Vous travaillez sur des applications complexes et vous jouerez un rôle dans des projets de grande envergure.\n\nDuur van de missie – Durée de la mission\n\n220 dagen per jaar -  220 jours annuels\n\nOntwikkelingsplatform - Plateforme de développement\n\nToepassingen geschreven in het .NET framework, voor Windows (en optioneel voor mobile: Android & iOS, via Xamarin).\n\nWerkomgeving: Windows 10, Office 365, Visual Studio 2019.\n\nApplications écrites dans le framework .NET, pour Windows (et optionnelle pour mobile: Android et iOS, via Xamarin).\n\nEnvironnement de travail : Windows 10, Office 365, Visual Studio 2019.\n\nOntwikkelingstaal – Language de développement\n\nC#, .NET Framework (Pro: kennis van/connaissance de Xamarin)\n\nBenodigde vaardigheden – Compétences recherchées\n\n• U behaalde een ICT georiënteerd masterdiploma of u bezit een graduaat of master in de informatica;\n\n• U bezit een ruime kennis van de technologie en ontwikkeltools voor Microsoft .NET (C#);\n\n• U heeft een goede kennis van SQL;\n\n• U heeft ervaring met het gebruik van ontwikkelingsomgevingen in GIT en DevOps;\n\n• U bezit een goede kennis van de ontwikkeling en het gebruik van REST web services, toegepast in C#;\n\n• Ervaring in een gelijkaardige functie is een sterke meerwaarde;\n\n• U bezit kennis van de methoden en technieken van functionele en technische analyse;\n\n• U bezit kennis van de methoden en technieken van procesbeschrijving;\n\n• U bezit kennis van analyse onder de vorm van Use Cases afhankelijk van project tot project;\n\n• U bent vertrouwd met Agile en Scrum;\n\n• Optioneel: U beschikt over een aantoonbare ervaring in het ontwikkelen van mobiele toepassingen met Xamarin, minstens voor het Android-besturingssysteem;\n\n• U kan zelfstandig werken;\n\n• U kan uw tijd goed indelen en deadlines respecteren;\n\n• U hebt een sterke teamgeest en analytische capaciteiten;\n\n• U bent bij voorkeur tweetalig (Nederlands, Frans) of, indien niet, beschikt u over voldoende basiskennis van de tweede landstaal om probleemloos te kunnen deelnemen aan vergaderingen met andere specialisten en met vertegenwoordigers van de gebruikers;\n\n• Kennis van technisch Engels is noodzakelijk.\n\n• Vous êtes titulaire d'une maîtrise orientée vers les TIC ou d'un diplôme d'études supérieures ou d'une maîtrise en informatique ;\n\n• Vous avez une connaissance étendue de la technologie et des outils de développement pour Microsoft .NET (C#) ;\n\n• Vous avez une bonne connaissance du SQL ;\n\n• Vous avez de l'expérience dans l'utilisation d'environnements de développement dans GIT et DevOps ;\n\n• Vous avez une bonne connaissance du développement et de l'utilisation des services web REST, appliqués en C# ;\n\n• Une expérience dans une fonction similaire est une forte valeur ajoutée ;\n\n• Vous connaissez les méthodes et techniques d'analyse fonctionnelle et technique ;\n\n• Vous connaissez les méthodes et les techniques de description des processus ;\n\n• Vous avez une connaissance de l'analyse sous forme de cas d'utilisation en fonction des projets ;\n\n• Vous connaissez Agile et Scrum ;\n\n• Optionnelle : Vous avez une expérience avérée dans le développement d'applications mobiles avec Xamarin, au moins pour le système d'exploitation Android ;\n\n• Vous pouvez travailler de manière indépendante ;\n\n• Vous pouvez bien organiser votre temps et respecter les délais ;\n\n• Vous avez un fort esprit d'équipe et des compétences analytiques ;\n\n• Vous êtes de préférence bilingue (néerlandais, français) ou, dans le cas contraire, vous avez une connaissance de base suffisante de la deuxième langue nationale pour pouvoir participer sans problème à des réunions avec d'autres spécialistes et représentants des utilisateurs ;\n\n• La connaissance de l'anglais technique est nécessaire.\n\nVerwachte uitvoertype – Type output attendu\n\nTechnische analyse, activiteitdiagrammen, database-schema, broncode met commentaar, unit-testen, scenariotesten, setup-bestanden (MSI, APK, …)\n\nAnalyse technique, diagrammes d'activités, schéma de base de données, code source avec commentaires, tests unitaires, tests de scénario, fichiers de configuration (MSI, APK, ...)\n\nFrequentie van beschikbaarheid van de outputs – Périodicité de mise à disposition des outputs\n\nOp het einde van elke sprint (2 of 4 weken). - En fin de sprint (2 ou 4 semaines).\n\nMethode voor het definiëren van de verwachte inhoud/periode (sprint)-\n\nMéthode de définition du contenu attendu pour chaque période (sprint)\n\nDe Business Unit Manager of de door hem aangeduide persoon definieert de inhoud en de verwachtingenvoor elke sprint aan het begin van de sprint.\n\nLe Business Unit Manager ou la personne désignée en son nom définit le contenu et les attentes de chaque sprint au début du sprint.\n\nPeriodiciteit van de evaluatie - Périodicité de l'évaluation\n\nMaandelijks – Mensuel\n\nStop-and-Go criteria van de missie - Critères d’arrêt and go de la mission\n\nStop : ontoereikend resultaat, niet-accepteerbare vertraging, einde van de opdracht, overschrijding van het budget, niet respecteren van de opdrachten, standaarden en procedures, zware fout.\n\nGo : Periodieke positieve evaluatie, actieve bijsturing voor de ontvangen opmerkingen tijdens de evaluatie.\n\nArrêt : résultat inadéquat, retard inacceptable, fin de mission, dépassement de budget, non-respect des missions, normes et procédures, faute grave.\n\nGo : Évaluation positive périodique, ajustement actif des commentaires reçus lors de l'évaluation",
+    "roles": [
+      {
+        "title": "Expert Full-Stack Developer",
+        "mandatory": true,
+        "experience_label": "Most recent experience",
+        "experience_value": "Any time"
+      }
+    ],
+    "skills": [
+      {
+        "name": ".Net",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Agile / Scrum",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "C#",
+        "level": "Expert",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "DevOps",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Functional analysis",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "GIT",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Laravel",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "REST Services",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "SQL",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "Technical Analysis",
+        "level": "Junior",
+        "recent_experience": "Any time"
+      },
+      {
+        "name": "VueJS",
+        "level": "Confirmed",
+        "recent_experience": "Any time"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Dutch",
+        "level": "Passive knowledge"
+      },
+      {
+        "name": "English",
+        "level": "Active knowledge"
+      },
+      {
+        "name": "French",
+        "level": "Passive knowledge"
+      }
+    ],
+    "locations": {
+      "Main address": "Koningsstraat, 202A - 1000 Brussel",
+      "Remote option": "No remote"
+    },
+    "title_from_list": "Analist-Programmeur C# Entry/Exit System (EES) en ETIAS (K09445)"
+  }
+]
